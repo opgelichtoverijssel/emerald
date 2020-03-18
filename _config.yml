@@ -5,7 +5,7 @@ url: "m5test.vanmonsjou.xyz"
 author:
   name: "Daan van Monsjou"
   email: "daan@vanmonsjou.xyz"
-  url: "http://www.jacoporabolini.com"
+  url: "https://m5test.vanmonsjou.xyz"
 
 # Build settings
 baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
