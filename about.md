@@ -3,8 +3,8 @@ layout: page
 title: About M5 Test
 ---
 ## About
-Deze site is letterlijk in tien minuten tijd in elkaar geflanst. Let dus even niet op eventuele imperfecties. Het is immers, zoals letterlijk in de url staat, een test voor M5. 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+
+Deze site is letterlijk in tien minuten tijd in elkaar geflanst. Let dus even niet op eventuele imperfecties. Het is immers, zoals letterlijk in de url staat, een test voor M5. Joe
 
 ![Elinus](https://i.imgur.com/qDwmMM2.jpg "Elinus.jpeg")
 
