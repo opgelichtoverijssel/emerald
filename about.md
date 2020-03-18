@@ -6,7 +6,7 @@ title: About M5 Test
 
 Deze site is letterlijk in tien minuten tijd in elkaar geflanst. Let dus even niet op eventuele imperfecties. Het is immers, zoals letterlijk in de url staat, een test voor M5. Joe
 
-![Elinus](https://i.imgur.com/qDwmMM2.jpg "Elinus.jpeg")
+![Elinus](https://i.imgur.com/qDwmMM2.jpg "Hou je bek Elinus")
 
 ### Setup
 Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
