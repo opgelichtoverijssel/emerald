@@ -3,11 +3,10 @@ layout: page
 title: About Emerald
 ---
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
-
+Deze site is letterlijk in tien minuten tijd in elkaar geflanst. Let dus even niet op eventuele imperfecties. Het is immers, zoals letterlijk in de url staat, een test voor M5. 
 For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
 
-![Emerald](img/Emerald01.png "Emerald")
+![Elinus](https://i.imgur.com/qDwmMM2.jpg "Elinus.jpeg")
 
 ### Setup
 Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
