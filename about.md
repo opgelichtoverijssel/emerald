@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Emerald
+title: About M5 Test
 ---
 ## About
 Deze site is letterlijk in tien minuten tijd in elkaar geflanst. Let dus even niet op eventuele imperfecties. Het is immers, zoals letterlijk in de url staat, een test voor M5. 
