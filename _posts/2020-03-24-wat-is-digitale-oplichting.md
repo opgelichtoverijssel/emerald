@@ -34,7 +34,7 @@ Criminelen vragen je vervolgens om **losgeld** te betalen, vaak in de vorm van B
 ![GandCrab-ransomware](https://blog.malwarebytes.com/wp-content/uploads/2018/01/GanCrab.png "GandCrab-ransomware")
 <p style="text-align: center;"><i>Een voorbeeld van een ransomware-infectie. Afbeelding via <a href="https://www.malwarebytes.com/gandcrab/" target="_blank">MalwareBytes</a></i></p>
 
-Ransomware-infecties komen steeds vaker voor. Zo werd eind vorig jaar [de Universiteit van Maastricht getroffen](https://www.maastrichtuniversity.nl/um-cyber-attack-symposium-%E2%80%93-lessons-learnt). De infectie kwam binnen via een phishingmail op een oude laptop. Hierdoor konden honderden studenten wekenlang geen gebruikmaken van de computers op de campus.
+Ransomware-infecties komen steeds vaker voor. Zo werd de Universiteit van Maastricht eind vorig jaar <a href="https://www.maastrichtuniversity.nl/um-cyber-attack-symposium-%E2%80%93-lessons-learnt" target = "_blank">getroffen door ransomware</a>. De infectie kwam binnen via een phishingmail op een oude laptop. Hierdoor konden honderden studenten wekenlang geen gebruikmaken van de computers op de campus.
 
 Uiteindelijk betaalde de Universiteit bijna twee ton aan losgeld. Hun bestanden werden vervolgens wél ontsleuteld. Toch bleek het een controversiële keuze, omdat de Universiteit wordt gefinancierd met belastinggeld.
 
