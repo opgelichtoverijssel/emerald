@@ -20,3 +20,7 @@ ___
 <br>
 <iframe title="Totale schade door digitale oplichting" aria-label="Column Chart" id="datawrapper-chart-lGt5y" src="//datawrapper.dwcdn.net/lGt5y/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
+
+## YouTube-embed
+<br>
+<iframe width="656" height="369" src="https://www.youtube.com/embed/g72A9dVV18M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
