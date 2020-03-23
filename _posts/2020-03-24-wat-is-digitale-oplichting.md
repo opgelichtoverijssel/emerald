@@ -32,7 +32,9 @@ Ransomware-infecties komen steeds vaker voor. Zo werd eind vorig jaar [de Univer
 
 Uiteindelijk betaalde de Universiteit bijna twee ton aan losgeld. Hun bestanden werden vervolgens wél ontsleuteld. Toch bleek het een controversiële keuze, omdat de Universiteit wordt gefinancierd met belastinggeld.
 
-Ransomware is vooral gevaarlijk voor bedrijven, scholen, overheden en andere grote instanties, maar ook doodgewone mensen kunnen getroffen worden door zo'n virus. Dit gaat vaak via een phishingmail, bijvoorbeeld met het virus als bijlage. Voor sommige soorten ransomware zijn inmiddels gratis *tools* uitgebracht waarmee je je bestanden kunt terugkrijgen, maar dit is lang niet altijd het geval.
+Ransomware is vooral gevaarlijk voor bedrijven, scholen, overheden en andere grote instanties, maar ook doodgewone mensen kunnen getroffen worden door zo'n virus. Dit gaat vaak via een phishingmail, bijvoorbeeld met het virus als bijlage. Voor sommige soorten ransomware zijn inmiddels gratis *tools* uitgebracht waarmee je je bestanden kunt terugkrijgen, zoals bij het voorheen beruchte [GandCrab](https://labs.bitdefender.com/2018/10/gandcrab-ransomware-decryption-tool-available-for-free/).
+
+maar dit is lang niet altijd het geval.
 
 ## Deepfakes
 
@@ -40,7 +42,7 @@ Vooral beroemdheden worden getroffen door deepfakes, maar tegenwoordig kan bijna
 
 ## Wat nu?
 
-Dit alles komt misschien wat hard aan; de realiteit is dat digitale oplichting steeds vaker voorkomt, ook onder jongeren. Het CBS meldde in 2020 dat ruim 17 procent van alle slachtoffers tussen de 15 en 25 jaar oud is. Dat is het hoogste percentage onder alle leeftijdsgroepen.
+Dit alles komt misschien wat hard aan; de realiteit is dat digitale oplichting steeds vaker voorkomt, ook onder jongeren. Het CBS meldde in 2020 dat **ruim 17 procent** van alle slachtoffers **tussen de 15 en 25 jaar** oud is. Dat is het hoogste percentage onder alle leeftijdsgroepen.
 
 <iframe title="Percentage slachtoffers cybercrime" aria-label="Bar Chart" id="datawrapper-chart-RsTy8" src="//datawrapper.dwcdn.net/RsTy8/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="239"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
