@@ -27,7 +27,7 @@ ___
 
 ## Testlinkje
 <br>
-[Dit is een testlink, my dude](https://daanvanmonsjou.nl/)
+<a href="https://daanvanmonsjou.nl" target="_blank">Dit is een testlink (helaas moet dit in html)</a>
 
 ## Dat was het
 <br>
