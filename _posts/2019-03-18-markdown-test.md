@@ -1,5 +1,5 @@
 ---
-title: (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Test-blogpost voor M5 
+title: Markdown-testje
 ---
 Dit is een voorbeeldpost. Negeer dit gerust. Of niet. Het is jouw leven.
 
