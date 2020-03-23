@@ -36,6 +36,13 @@ html {
 
 
 /*- Link -*/
+
+a.footer {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: 700;
+}
+
 a {
 	color: $main-color;
 	text-decoration: none;
@@ -44,12 +51,6 @@ a {
 	&:focus {
 		color: darken($main-color, 5%);
 	}
-}
-
-a.span {
-	color: #FFFFFF;
-	text-decoration: none;
-	font-weight: 700;
 }
 
 
