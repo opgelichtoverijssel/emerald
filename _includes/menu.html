@@ -1,12 +1,6 @@
 <nav {% if site.reverse == true %}id="nav-left"{% else %}id="nav"{% endif %}>
 	<div id="nav-list">
 		<a href="https://m5test.vanmonsjou.xyz">Home</a>
-		<!-- Nav pages -->
-	  {% for page in site.pages %}
-	    {% if page.layout == "page" %}
-	      <a href="https://m5test.vanmonsjou.xyz"</a>
-	    {% endif %}
-	  {% endfor %}
     
     <!-- Nav links -->
 	  {% include link.html %}
