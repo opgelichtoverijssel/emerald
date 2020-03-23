@@ -12,7 +12,9 @@ Maar wat IS digitale oplichting eigenlijk? **Phishing**, **ransomware**, **deepf
 
 Phishing is een vorm van digitale oplichting waarbij criminelen proberen je wachtwoorden te stelen. Dit doen hackers bijvoorbeeld door je een nepmail te sturen. Ze doen zich onder andere voor als je bank, die je vertellen dat je bankrekening is ‘geblokkeerd’, terwijl dit niet zo is.
 
-Oplichters roepen je in de **nepmail** op om in te loggen op een nepwebsite, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd.
+Oplichters roepen je in de **nepmail** op om in te loggen op een nepwebsite, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd. Het gebruik van zulke nep-websites wordt **pharming** genoemd.
+
+Pharming is overigens niet beperkt tot banken. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven of diensten. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd.
 
 Het kan ook zijn dat je een e-mail ontvangt die speciaal voor jou lijkt gemaakt. Dit is een 'gerichte' aanval, en wordt ook wel **spear-phishing** genoemd. Dit komt vooral veel voor bij medewerkers van grote bedrijven (zoals Google), politici, journalisten en andere beroemdheden. Maar het kan jou ook overkomen. 
 
