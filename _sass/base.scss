@@ -45,3 +45,11 @@ a {
 		color: darken($main-color, 5%);
 	}
 }
+
+.footer {
+	color: white;
+	text-decoration: underline;
+	font-weight: 700;
+	&:hover,
+	&:focus {
+		color: darken($main-color, 5%);
