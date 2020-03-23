@@ -50,9 +50,6 @@ a.span {
 	color: #FFFFFF;
 	text-decoration: none;
 	font-weight: 700;
-	&:hover,
-	&:focus {
-		color: darken($main-color, 5%);
-	}
 }
+
 
