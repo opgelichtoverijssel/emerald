@@ -1,5 +1,5 @@
 ---
-title: Wat is Digitale Oplichting? (KORTE TEST)
+title: Wat is Digitale Oplichting?
 ---
 Digitale oplichting is een groeiend probleem. De laatste jaren melden steeds meer slachtoffers zich bij de [**Fraudehelpdesk**](https://www.fraudehelpdesk.nl), en de schade loopt inmiddels jaar in de miljoenen euro's. In 2019 liep de schade zelfs op tot ruim 25 miljoen euro, terwijl dat bedrag twee jaar eerder aanzienlijk lager lag.
 
