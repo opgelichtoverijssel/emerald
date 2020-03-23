@@ -34,7 +34,7 @@ Ransomware-infecties komen steeds vaker voor. Zo werd eind vorig jaar [de Univer
 
 Uiteindelijk betaalde de Universiteit bijna twee ton aan losgeld. Hun bestanden werden vervolgens wél ontsleuteld. Toch bleek het een controversiële keuze, omdat de Universiteit wordt gefinancierd met belastinggeld.
 
-Ransomware is dan ook vooral gevaarlijk voor bedrijven, scholen, overheden en andere grote instanties, maar ook doodgewone mensen kunnen getroffen worden door zo'n virus. Dit gaat vaak via een phishingmail, bijvoorbeeld met het virus als bijlage. Voor sommige soorten ransomware zijn inmiddels gratis *tools* uitgebracht waarmee je je bestanden kunt terugkrijgen, zoals bij het voorheen beruchte [GandCrab](https://labs.bitdefender.com/2018/10/gandcrab-ransomware-decryption-tool-available-for-free/). Helaas is dit overigens lang niet altijd het geval.
+Ransomware is dan ook vooral gevaarlijk voor bedrijven, scholen, overheden en andere grote instanties, maar ook doodgewone mensen kunnen getroffen worden door zo'n virus. Dit gaat vaak via een phishingmail, bijvoorbeeld met het virus als bijlage. Voor sommige soorten ransomware zijn inmiddels gratis *tools* uitgebracht waarmee je je bestanden kunt terugkrijgen, zoals bij het voorheen beruchte <a href="https://labs.bitdefender.com/2018/10/gandcrab-ransomware-decryption-tool-available-for-free/" target = "_blank">GandCrab</a>. Helaas is dit overigens lang niet altijd het geval.
 
 ## Deepfakes
 
