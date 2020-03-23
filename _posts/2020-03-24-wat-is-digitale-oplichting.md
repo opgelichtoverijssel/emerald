@@ -16,7 +16,7 @@ Oplichters roepen je in de **nepmail** op om in te loggen op een nepwebsite, die
 
 Pharming is overigens niet beperkt tot banken. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven of diensten. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd.
 
-Het kan ook zijn dat je een e-mail ontvangt die speciaal voor jou lijkt gemaakt. Dit is een 'gerichte' aanval, en wordt ook wel **spear-phishing** genoemd. Dit komt vooral veel voor bij medewerkers van grote bedrijven (zoals Google), politici, journalisten en andere beroemdheden. Maar het kan jou ook overkomen. 
+Het kan ook zijn dat je een e-mail ontvangt die speciaal voor jou lijkt gemaakt. Dit is een 'gerichte' aanval, en wordt ook wel **spear-phishing** genoemd. Dit komt vooral veel voor bij medewerkers van grote bedrijven of overheidsinstanties, politici, journalisten en andere beroemdheden. Maar het kan jou ook overkomen. 
 
 Neem dit (niet waargebeurde) voorbeeld: Stel dat je klant bent van de ING Bank. Het zou kunnen dat de ING wordt gehackt, waarbij de e-mailadressen van alle ING-klanten worden buitgemaakt. Hackers kunnen nu specifiek namens de ING phishingmails versturen. Dat is aanzienlijk meer geloofwaardig dan wanneer je een mail krijgt van een andere bank:
 
