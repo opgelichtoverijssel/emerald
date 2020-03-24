@@ -27,7 +27,7 @@ Phishing is een vorm van digitale oplichting waarbij criminelen proberen je wach
 Phishing is een erg breed begrip, en uit zich op verschillende manieren. Zo is er tegenwoordig Tikkie-fraude, waarmee iemand je vraagt om een Tikkie te betalen via een betaallink. Wanneer je op deze link klikt, word je omgeleid naar een valse website.
 
 
-Oplichters roepen je in de **nepberichten** op om in te loggen op een nepwebsite, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd. Het gebruik van zulke nep-websites wordt **pharming** genoemd. 
+Oplichters roepen je in de **nepberichten** op om in te loggen op een nepwebsite, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd. Het gebruik van zulke nepwebsites wordt **pharming** genoemd. 
 
 Pharming blijft overigens zeker niet beperkt tot banken. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven of diensten. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd. Zo hopen ze dat je je wachtwoord invult, waarna je account wordt gehackt en (vaak) verkocht.
 
@@ -76,7 +76,7 @@ Maak daarnaast regelmatig back-ups van je apparaten, en sla deze op op een exter
 
 ## Deepfakes
 <br>
-Deepfakes zijn zeer realistische **nepvideo's** van personen. Denk aan een soort Snapchat-filters, maar dan next-level. Met behulp van **kunstmatige intelligentie** 'plakken' kwaadwillenden het gezicht van een persoon op een bepaalde video. Zo kan men bijvoorbeeld nepporno van een bekend persoon maken. Maar ze kunnen ook speeches van bijvoorbeeld politici namaken, en ze zo woorden in de mond leggen. Dit kan erg gevaarlijk zijn. Iemand kan bijvoorbeeld een nepvideo maken waarin Trump de oorlog aan Rusland verklaart.
+Deepfakes zijn zeer realistische **nepvideo's** van personen. Denk aan een soort Snapchat-filters, maar dan next-level. Met behulp van **kunstmatige intelligentie** 'plakken' kwaadwillenden het gezicht van een persoon op een andere persoon. Zo kan men bijvoorbeeld nepporno van een beroemd iemand maken. Maar ze kunnen ook speeches van bijvoorbeeld politici namaken, en ze zo woorden in de mond leggen. Dit kan erg gevaarlijk zijn. Iemand kan bijvoorbeeld een nepvideo maken waarin Trump de oorlog aan Rusland verklaart.
 
 <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/cQ54GDm1eL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p class="bijschrift"><br>Deze video van BuzzFeed toont de gevaren van deepfakes.</p>
