@@ -45,7 +45,7 @@ Ransomware wordt vaak verspreid via phishingmails. Criminelen sturen je bijvoorb
 Criminelen vragen je vervolgens om **losgeld** te betalen, vaak in de vorm van Bitcoins. De oplichter beloven dat ze je bestanden teruggeven zodra je betaald hebt, maar dit is lang niet altijd het geval. Soms komt het voor dat mensen voor honderden euro's aan losgeld betalen, en vervolgens alsnog hun bestanden kwijtraken.
 
 ![GandCrab-ransomware](https://blog.malwarebytes.com/wp-content/uploads/2018/01/GanCrab.png "GandCrab-ransomware")
-<p style="text-align: center;"><i>Een voorbeeld van een ransomware-infectie. Afbeelding via <a href="https://www.malwarebytes.com/gandcrab/" target="_blank">MalwareBytes</a></i></p>
+<p style="text-align: center; color: grey; font-size: 14px;"><i>Een voorbeeld van een ransomware-infectie. Afbeelding via <a href="https://www.malwarebytes.com/gandcrab/" target="_blank">MalwareBytes</a></i></p>
 
 Ransomware-infecties komen steeds vaker voor. Zo werd de Universiteit van Maastricht eind vorig jaar <a href="https://www.maastrichtuniversity.nl/um-cyber-attack-symposium-%E2%80%93-lessons-learnt" target = "_blank">getroffen door ransomware</a>. De infectie kwam binnen via een phishingmail op een oude laptop. Hierdoor konden honderden studenten wekenlang geen gebruikmaken van de computers op de campus.
 
@@ -54,7 +54,7 @@ Uiteindelijk betaalde de Universiteit bijna twee ton aan losgeld. Hun bestanden 
 Een ander bekend voorbeeld is [de uitbraak van WannaCry](https://www.wikiwand.com/nl/WannaCry), dat gedurende een paar maanden in 2017 bijna 200.000 slachtoffers maakte. De makers van het virus eistten tussen de 300 en 600 euro losgeld per getroffen apparaat.
 
 ![Getroffen landen door WannaCry](https://upload.wikimedia.org/wikipedia/commons/3/3a/Countries_initially_affected_in_WannaCry_ransomware_attack.png)
-<p style="text-align: center; color: grey; font-size: 12px;"><i>In totaal werden 150 landen getroffen door het WannaCry-virus.<br>Afbeelding door Roke <a href="https://commons.wikimedia.org/wiki/File:Countries_initially_affected_in_WannaCry_ransomware_attack.png" target="_blank">via WikiMedia</a>. Licentie onder <a href="https://creativecommons.org/licenses/by-sa/3.0" target = "_blank">CC BY-SA</a>.</i></p>
+<p style="text-align: center; color: grey; font-size: 14px;"><i>In totaal werden 150 landen getroffen door het WannaCry-virus.<br>Afbeelding door Roke <a href="https://commons.wikimedia.org/wiki/File:Countries_initially_affected_in_WannaCry_ransomware_attack.png" target="_blank">via WikiMedia</a>. Licentie onder <a href="https://creativecommons.org/licenses/by-sa/3.0" target = "_blank">CC BY-SA</a>.</i></p>
 
 Ransomware is vaak vooral gevaarlijk voor bedrijven, scholen, overheden en andere grote instanties, maar ook doodgewone mensen kunnen dus getroffen worden door zo'n virus. Voor sommige soorten ransomware zijn inmiddels gratis *tools* uitgebracht waarmee je je bestanden kunt terugkrijgen, zoals bij het voorheen beruchte <a href="https://labs.bitdefender.com/2018/10/gandcrab-ransomware-decryption-tool-available-for-free/" target = "_blank">GandCrab</a>. Helaas is dit overigens lang niet altijd het geval.
 
