@@ -1,16 +1,13 @@
 ---
 title: Wat is Digitale Oplichting?
 ---
-Digitale oplichting is een groeiend probleem. De laatste jaren melden steeds meer slachtoffers zich bij de <a href="https://www.fraudehelpdesk.nl" target="_blank">Fraudehelpdesk</a>, en de schade loopt inmiddels jaarlijks in de miljoenen euro's. In 2019 liep de schade zelfs op tot ruim 25 miljoen euro, terwijl dat bedrag twee jaar eerder aanzienlijk lager lag.
-
-<br>
+Digitale oplichting is een groeiend probleem. De laatste jaren melden steeds meer slachtoffers zich bij de <a href="https://www.fraudehelpdesk.nl" target="_blank">Fraudehelpdesk</a>, en de schade loopt inmiddels jaarlijks in de miljoenen euro's. In 2019 liep de schade zelfs op tot ruim 25 miljoen euro, terwijl dat bedrag twee jaar eerder aanzienlijk lager lag.<br>
 
 <iframe title="Totale schade door digitale oplichting in euro's" aria-label="Column Chart" id="datawrapper-chart-lGt5y" src="//datawrapper.dwcdn.net/lGt5y/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
-
 <br>
 
-Maar wat IS digitale oplichting eigenlijk? **Phishing**, **ransomware**, **deepfakes** zijn moeilijke termen, hoewel het erg gemakkelijk is om ermee in aanraking te komen. En als dat nog niet is gebeurd,dan is de kans groot dat jij, of een vriend(in), er op termijn alsnog mee te maken krijgt. Het is hierom belangrijk om te weten wat digitale oplichting inhoudt. Vandaar deze uitleg.
+Maar wat is digitale oplichting eigenlijk? **Phishing**, **ransomware**, **deepfakes** zijn moeilijke termen, hoewel het erg gemakkelijk is om ermee in aanraking te komen. En als dat nog niet is gebeurd,dan is de kans groot dat jij, of een vriend(in), er op termijn alsnog mee te maken krijgt. Het is hierom belangrijk om te weten wat digitale oplichting inhoudt. Vandaar deze uitleg.
 
 ## Phishing
 <br>
