@@ -34,6 +34,11 @@ html {
 	color: $text-color;
 }
 
+.bijschrift p {
+	color: grey;
+	text-align: center;
+	font-size: 14px;
+}
 
 /*- Link -*/
 
@@ -52,5 +57,3 @@ a {
 		color: darken($main-color, 5%);
 	}
 }
-
-
