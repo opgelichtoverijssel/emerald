@@ -58,7 +58,7 @@ Je wapenen tegen ransomware is niet super moeilijk: open geen bijlagen in verdac
 <br>
 Deepfakes zijn zeer realistische **nepvideo's** van personen. Met behulp van **kunstmatige intelligentie** 'plakken' kwaadwillenden het gezicht van een persoon op een bepaalde video. Zo kan men bijvoorbeeld nepporno van een bekend persoon maken. Maar ze kunnen ook speeches van bijvoorbeeld politici namaken, en ze zo woorden in de mond leggen. Dit kan erg gevaarlijk zijn. Iemand kan bijvoorbeeld een nepvideo maken waarin Trump de oorlog aan Rusland verklaart.
 
-<div align="center"><iframe width="656" height="369" src="https://www.youtube.com/embed/cQ54GDm1eL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="656" height="369" src="https://www.youtube.com/embed/cQ54GDm1eL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p align="center"><i>Deze video van BuzzFeed toont het gevaar van deepfakes.</i></p>
 
 Vooral beroemdheden worden getroffen door deepfakes, maar tegenwoordig kan bijna iedereen met minimale moeite zo'n filmpje maken.
