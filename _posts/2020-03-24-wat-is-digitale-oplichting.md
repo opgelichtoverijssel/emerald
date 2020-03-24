@@ -17,6 +17,7 @@ Phishing is een erg breed begrip, en uit zich op verschillende manieren. Zo is e
 
 
 Oplichters roepen je in de **nepmail** op om in te loggen op een nepwebsite, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd. Het gebruik van zulke nep-websites wordt **pharming** genoemd. 
+
 Pharming blijft overigens zeker niet beperkt tot banken. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven of diensten. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd. Zo hopen ze dat je je wachtwoord invult, waarna je account wordt gehackt en (vaak) verkocht.
 
 <a href="https://i.imgur.com/bWxLBK9.png">
