@@ -31,7 +31,7 @@ Oplichters roepen je in de **nepberichten** op om in te loggen op een nepwebsite
 
 Pharming blijft overigens zeker niet beperkt tot banken. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven of diensten. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd. Zo hopen ze dat je je wachtwoord invult, waarna je account wordt gehackt en (vaak) verkocht.
 
-<a href="https://m5test.vanmonsjou.xyz/img/bWxLBK9.png"><img src="https://m5test.vanmonsjou.xyz/img/sbdDtVE.png" alt="Phishingmail Netflix"></a>
+<a href="https://m5test.vanmonsjou.xyz/img/bWxLBK9.png" alt="Phishingmail Netflix"><img src="https://m5test.vanmonsjou.xyz/img/sbdDtVE.png" alt="Phishingmail Netflix"></a>
 
 Hierboven zie je een nepmail van 'Netflix'. De afzender is 'info@eaudition.in'. E-mails van Netflix zullen verstuurd worden vanaf een '@netflix.com'-mailadres. Er staat ook enkele tikfouten in de e-mail: ze schrijven bijvoorbeeld 'member ship' in plaats van 'membership'. Je kunt er gerust van uitgaan dat de berichten van bedrijven worden nagekeken voordat ze worden verzonden. De link in deze e-mail verwijst naar een Russische website die zich voordoet als Adidas, blijkt uit een checkje <a href="https://urlscan.io/result/41c90c07-7cb3-4332-a74e-cfa5916f8370" target = "_blank">via URLScan.io</a>. Er is hier dus sprake van pharming.
 
