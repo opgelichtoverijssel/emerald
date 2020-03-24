@@ -1,7 +1,7 @@
 ---
 title: Wat is Digitale Oplichting?
 ---
-<p class="auteur">Auteur: Daan van Monsjou</p>
+<p class="auteur">Auteur: Daan van Monsjou.</p>
 <br>
 
 Digitale oplichting is een groeiend probleem. De laatste jaren melden steeds meer slachtoffers zich bij de <a href="https://www.fraudehelpdesk.nl" target="_blank">Fraudehelpdesk</a>, en de schade loopt inmiddels jaarlijks in de miljoenen euro's. In 2019 liep de schade zelfs op tot ruim 25 miljoen euro, terwijl dat bedrag twee jaar eerder aanzienlijk lager lag.<br>
