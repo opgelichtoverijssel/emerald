@@ -24,7 +24,7 @@ Phishing is een vorm van digitale oplichting waarbij criminelen proberen je wach
 Phishing is een erg breed begrip, en uit zich op verschillende manieren. Zo is er tegenwoordig Tikkie-fraude, waarmee iemand je vraagt om een Tikkie te betalen via een betaallink. Wanneer je op deze link klikt, word je omgeleid naar een valse website.
 
 
-Oplichters roepen je in de **nepmail** op om in te loggen op een nepwebsite, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd. Het gebruik van zulke nep-websites wordt **pharming** genoemd. 
+Oplichters roepen je in de **nepberichten** op om in te loggen op een nepwebsite, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd. Het gebruik van zulke nep-websites wordt **pharming** genoemd. 
 
 Pharming blijft overigens zeker niet beperkt tot banken. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven of diensten. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd. Zo hopen ze dat je je wachtwoord invult, waarna je account wordt gehackt en (vaak) verkocht.
 
@@ -37,6 +37,7 @@ Het kan ook zijn dat je een e-mail ontvangt die speciaal voor jou lijkt gemaakt.
 Neem dit (niet waargebeurde) voorbeeld: Stel dat je klant bent van de ING Bank. Het zou kunnen dat de ING Bank wordt gehackt, waarbij de e-mailadressen van alle ING-klanten worden buitgemaakt. Criminelen weten nu dat jij klant bent bij ING, en zullen jou dus geen berichten sturen namens ABN Amro. Dat is immers niet erg geloofwaardig:
 
 <div align="center"><blockquote style ="float: center" class="twitter-tweet" data-lang="nl" data-dnt="true"><p lang="nl" dir="ltr">Krijg net dit phishingbericht binnen. Ben geen klant bij Rabobank <a href="https://t.co/LecOBjlgFz">pic.twitter.com/LecOBjlgFz</a></p>&mdash; Daan van Monsjou 👨‍💻 (@daanvanmonsjou) <a href="https://twitter.com/daanvanmonsjou/status/1198239110227513344?ref_src=twsrc%5Etfw">23 november 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<p class="bijschrift">Criminelen zijn ook actief via SMS en WhatsApp.</p>
 <br>
 Dit klinkt allemaal enorm eng, maar gelukkig zijn de berichten zelf nooit schadelijk. Pas als je naar een nepsite gaat, of een bijlage downloadt en opent, word je getroffen. Je kunt phishingmails en -berichten dan ook gewoon negeren. Tips om valse berichten te herkennen, [vind je bij de Fraudehelpdesk](https://www.fraudehelpdesk.nl/fraude/beoordeel-verdachte-e-mail/). Op deze website vind je ook [een actueel overzicht](https://www.fraudehelpdesk.nl/actueel/valse-emails/) van valse e-mails. 
 
