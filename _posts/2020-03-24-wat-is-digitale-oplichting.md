@@ -16,14 +16,17 @@ Maar wat IS digitale oplichting eigenlijk? **Phishing**, **ransomware**, **deepf
 <br>
 Phishing is een vorm van digitale oplichting waarbij criminelen proberen je wachtwoorden te stelen. Dit doen hackers bijvoorbeeld door je een nepbericht te sturen. Ze doen zich onder andere voor als je bank, die je vertellen dat je bankrekening is ‘geblokkeerd’, terwijl dit niet zo is. Dit gebeurt vaak via e-mail, maar criminelen sturen ook wel eens dergelijke berichten via andere diensten, zoals SMS of WhatsApp.
 
-Phishing is een erg breed begrip, en uit zich op verschillende manieren. Zo is er tegenwoordig Tikkie-fraude, waarmee iemand je vraagt om een Tikkie te betalen via een betaallink. Wanneer je op deze link klikt, word je omgeleid naar een valse website. Ook 
+Phishing is een erg breed begrip, en uit zich op verschillende manieren. Zo is er tegenwoordig Tikkie-fraude, waarmee iemand je vraagt om een Tikkie te betalen via een betaallink. Wanneer je op deze link klikt, word je omgeleid naar een valse website.
 
-Oplichters roepen je in de **nepmail** op om in te loggen op een nepwebsite, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd. Het gebruik van zulke nep-websites wordt **pharming** genoemd.
+
+Oplichters roepen je in de **nepmail** op om in te loggen op een nepwebsite, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd. Het gebruik van zulke nep-websites wordt **pharming** genoemd. 
+Pharming blijft overigens zeker niet beperkt tot banken. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven of diensten. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd. Zo hopen ze dat je je wachtwoord invult, waarna je account wordt gehackt en (vaak) verkocht.
+
 <a href="https://i.imgur.com/bWxLBK9.png">
 <img src="https://i.imgur.com/bWxLBK9.png" alt="Phishingmail Netflix"></a>
-<p align="center"><i>Een nepmail van 'Netflix'. Let op de afzender: die is 'info@eaudition.in'. <br>Let ook op de tikfout: 'member ship' in plaats van membership.<br> <a href="https://i.imgur.com/bWxLBK9.png">Klik</a> voor fullscreen.</i></p>
+<p align="center"><i?<a href="https://i.imgur.com/bWxLBK9.png">Klik</a> voor fullscreen.</i></p></i>
 
-Pharming is overigens niet beperkt tot banken. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven of diensten. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd.
+Hierboven zie je een nepmail van 'Netflix'. Let op de afzender: die is 'info@eaudition.in'. E-mails van Netflix zullen verstuurd worden vanuit een '@netflix.com'-mailadres. Er staat ook een tikfout in de e-mail: 'member ship' in plaats van 'membership'. Je kunt er gerust van uitgaan dat de berichten van bedrijven worden nagekeken voordat ze worden verzonden. De link in de e-mail verwijst naar een Russische website die zich voordoet als Adidas, blijkt uit een onderzoekje <a href="https://urlscan.io/result/41c90c07-7cb3-4332-a74e-cfa5916f8370" target = "_blank">via URLScan</a>. Er is hier dus sprake van pharming.
 
 Het kan ook zijn dat je een e-mail ontvangt die speciaal voor jou lijkt gemaakt. Dit is een 'gerichte' aanval, en wordt ook wel **spear phishing** genoemd. Dit komt vooral veel voor bij medewerkers van grote bedrijven of overheidsinstanties, politici, journalisten en andere beroemdheden. Maar het kan jou ook overkomen.
 
