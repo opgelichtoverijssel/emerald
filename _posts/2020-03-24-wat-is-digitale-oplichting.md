@@ -9,7 +9,7 @@ Digitale oplichting is een groeiend probleem. De laatste jaren melden steeds mee
 Dit komt misschien wat hard aan, maar de realiteit is dat digitale oplichting steeds vaker voorkomt, ook onder jongeren. Het CBS meldde in 2020 dat zelfs **ruim 17 procent** van alle jongeren **tussen de 15 en 25 jaar**, slachtoffer zijn geworden van digitale oplichting. Dat is het hoogste percentage onder alle leeftijdsgroepen.
 <br>
 
-<iframe title="Percentage slachtoffers cybercrime" aria-label="Bar Chart" id="datawrapper-chart-RsTy8" src="//datawrapper.dwcdn.net/RsTy8/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="239"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+<iframe title="Percentage slachtoffers cybercrime naar leeftijd" aria-label="Bar Chart" id="datawrapper-chart-RsTy8" src="//datawrapper.dwcdn.net/RsTy8/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="211"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
 <br>
@@ -74,10 +74,8 @@ Maak daarnaast regelmatig back-ups van je apparaten, en sla deze op op een exter
 <br>
 Deepfakes zijn zeer realistische **nepvideo's** van personen. Met behulp van **kunstmatige intelligentie** 'plakken' kwaadwillenden het gezicht van een persoon op een bepaalde video. Zo kan men bijvoorbeeld nepporno van een bekend persoon maken. Maar ze kunnen ook speeches van bijvoorbeeld politici namaken, en ze zo woorden in de mond leggen. Dit kan erg gevaarlijk zijn. Iemand kan bijvoorbeeld een nepvideo maken waarin Trump de oorlog aan Rusland verklaart.
 
-<div class="video"><iframe width="656" height="369" src="https://www.youtube.com/embed/cQ54GDm1eL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<p class="bijschrift">Deze video van BuzzFeed toont het gevaar van deepfakes.</p>
-
+<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/cQ54GDm1eL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p class="bijschrift">Deze video van BuzzFeed toont de gevaren van deepfakes.</p>
+  
 Vooral beroemdheden worden getroffen door deepfakes, maar tegenwoordig kan bijna iedereen met minimale moeite zo'n filmpje maken.
 
-
-<br>
