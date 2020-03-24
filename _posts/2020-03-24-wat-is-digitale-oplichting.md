@@ -45,7 +45,7 @@ Ransomware wordt vaak verspreid via phishingmails. Criminelen sturen je bijvoorb
 Criminelen vragen je vervolgens om **losgeld** te betalen, vaak in de vorm van Bitcoins. De oplichter beloven dat ze je bestanden teruggeven zodra je betaald hebt, maar dit is lang niet altijd het geval. Soms komt het voor dat mensen voor honderden euro's aan losgeld betalen, en vervolgens alsnog hun bestanden kwijtraken.
 
 ![GandCrab-ransomware](https://blog.malwarebytes.com/wp-content/uploads/2018/01/GanCrab.png "GandCrab-ransomware")
-<p style="text-align: center; color: grey; font-size: 14px;"><i>Een voorbeeld van een ransomware-infectie. Afbeelding via <a href="https://www.malwarebytes.com/gandcrab/" target="_blank">MalwareBytes</a></i></p>
+<p class="bijschrift">Een voorbeeld van een ransomware-infectie. Afbeelding via <a href="https://www.malwarebytes.com/gandcrab/" target="_blank">MalwareBytes</a></p>
 
 Ransomware-infecties komen steeds vaker voor. Zo werd de Universiteit van Maastricht eind vorig jaar <a href="https://www.maastrichtuniversity.nl/um-cyber-attack-symposium-%E2%80%93-lessons-learnt" target = "_blank">getroffen door ransomware</a>. De infectie kwam binnen via een phishingmail op een oude laptop. Hierdoor konden honderden studenten wekenlang geen gebruikmaken van de computers op de campus.
 
