@@ -6,8 +6,14 @@ Digitale oplichting is een groeiend probleem. De laatste jaren melden steeds mee
 <iframe title="Totale schade door digitale oplichting in euro's" aria-label="Column Chart" id="datawrapper-chart-lGt5y" src="//datawrapper.dwcdn.net/lGt5y/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
+Dit komt misschien wat hard aan, maar de realiteit is dat digitale oplichting steeds vaker voorkomt, ook onder jongeren. Het CBS meldde in 2020 dat zelfs **ruim 17 procent** van alle jongeren **tussen de 15 en 25 jaar**, slachtoffer zijn geworden van digitale oplichting. Dat is het hoogste percentage onder alle leeftijdsgroepen.
+<br>
+<iframe title="Percentage slachtoffers cybercrime" aria-label="Bar Chart" id="datawrapper-chart-RsTy8" src="//datawrapper.dwcdn.net/RsTy8/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="239"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+<br>
+Schrikbarende cijfers, maar vrees niet: **je kunt jezelf hiertegen beschermen**. Hoe? Daar gaan wij je de komende maanden mee helpen. Ook gaan we onderzoeken in hoeverre jullie je zorgen maken, en wat scholen en de overheid kunnen doen om jullie te steunen. Stay safe out there!
 
-Maar wat is digitale oplichting eigenlijk? **Phishing**, **ransomware**, **deepfakes** zijn moeilijke termen, hoewel het erg gemakkelijk is om ermee in aanraking te komen. En als dat nog niet is gebeurd,dan is de kans groot dat jij, of een vriend(in), er op termijn alsnog mee te maken krijgt. Het is hierom belangrijk om te weten wat digitale oplichting inhoudt. Vandaar deze uitleg.
+Maar wat is digitale oplichting eigenlijk? **Phishing**, **ransomware**, **deepfakes** zijn moeilijke termen, hoewel het tegenwoordig erg gemakkelijk is om ermee in aanraking te komen. En als dat nog niet is gebeurd, dan is de kans groot dat jij, of een vriend(in), er op termijn alsnog mee te maken krijgt. Het is hierom belangrijk om te weten wat digitale fraude inhoudt. Vandaar deze uitleg.
 
 ## Phishing
 <br>
@@ -71,12 +77,4 @@ Deepfakes zijn zeer realistische **nepvideo's** van personen. Met behulp van **k
 
 Vooral beroemdheden worden getroffen door deepfakes, maar tegenwoordig kan bijna iedereen met minimale moeite zo'n filmpje maken.
 
-## Wat nu?
-<br>
-Dit alles komt misschien wat hard aan; de realiteit is dat digitale oplichting steeds vaker voorkomt, ook onder jongeren. Het CBS meldde in 2020 dat **ruim 17 procent** van alle slachtoffers **tussen de 15 en 25 jaar** oud is. Dat is het hoogste percentage onder alle leeftijdsgroepen.
-<br>
-<iframe title="Percentage slachtoffers cybercrime" aria-label="Bar Chart" id="datawrapper-chart-RsTy8" src="//datawrapper.dwcdn.net/RsTy8/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="239"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
-</script>
-<br>
-Maar vrees niet: **je kunt jezelf hiertegen beschermen**. Hoe? Daar gaan wij je de komende maanden mee helpen. Ook gaan we onderzoeken in hoeverre jullie je zorgen maken, en wat scholen en de overheid kunnen doen om jullie te steunen. Stay safe out there!
 <br>
