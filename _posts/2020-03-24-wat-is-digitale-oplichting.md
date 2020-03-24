@@ -20,6 +20,9 @@ Phishing is een erg breed begrip, en uit zich op verschillende manieren. Zo is e
 
 Oplichters roepen je in de **nepmail** op om in te loggen op een nepwebsite, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd. Het gebruik van zulke nep-websites wordt **pharming** genoemd.
 
+<img src="https://i.imgur.com/bWxLBK9.png"/>
+<p align="center"><i>Een nepmail van 'Netflix'. Let op de afzender: die is 'info@eaudition.in'.</i></p>
+
 Pharming is overigens niet beperkt tot banken. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven of diensten. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd.
 
 Het kan ook zijn dat je een e-mail ontvangt die speciaal voor jou lijkt gemaakt. Dit is een 'gerichte' aanval, en wordt ook wel **spear phishing** genoemd. Dit komt vooral veel voor bij medewerkers van grote bedrijven of overheidsinstanties, politici, journalisten en andere beroemdheden. Maar het kan jou ook overkomen.
