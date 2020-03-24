@@ -22,7 +22,7 @@ Pharming blijft overigens zeker niet beperkt tot banken. Hackers sturen geregeld
 
 <div align="center"><a href="https://i.imgur.com/bWxLBK9.png">
 <img src="https://i.imgur.com/bWxLBK9.png" alt="Phishingmail Netflix"></a>
-<p align="center"><i><a href="https://i.imgur.com/bWxLBK9.png">Klik</a> voor fullscreen.</i></div>
+<i><a href="https://i.imgur.com/bWxLBK9.png">Klik</a> voor fullscreen.</i></div>
 
 Hierboven zie je een nepmail van 'Netflix'. Let op de afzender: die is 'info@eaudition.in'. E-mails van Netflix zullen verstuurd worden vanuit een '@netflix.com'-mailadres. Er staat ook een tikfout in de e-mail: 'member ship' in plaats van 'membership'. Je kunt er gerust van uitgaan dat de berichten van bedrijven worden nagekeken voordat ze worden verzonden. De link in de e-mail verwijst naar een Russische website die zich voordoet als Adidas, blijkt uit een onderzoekje <a href="https://urlscan.io/result/41c90c07-7cb3-4332-a74e-cfa5916f8370" target = "_blank">via URLScan</a>. Er is hier dus sprake van pharming.
 
