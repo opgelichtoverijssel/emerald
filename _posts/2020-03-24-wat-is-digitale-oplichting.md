@@ -51,7 +51,7 @@ Ransomware-infecties komen steeds vaker voor. Zo werd de Universiteit van Maastr
 
 Uiteindelijk betaalde de Universiteit bijna twee ton aan losgeld. Hun bestanden werden vervolgens wél ontsleuteld. Toch bleek het een controversiële keuze, omdat de Universiteit wordt gefinancierd met belastinggeld.
 
-Een ander bekend voorbeeld van ransomware is [de uitbraak van WannaCry](https://www.wikiwand.com/nl/WannaCry), dat gedurende een paar maanden in 2017 bijna 200.000 slachtoffers maakte. De makers van het virus eistten tussen de 300 en 600 euro losgeld per getroffen apparaat.
+Een ander bekend voorbeeld van ransomware is [de uitbraak van WannaCry](https://www.wikiwand.com/nl/WannaCry), dat gedurende een paar maanden in 2017 bijna 200.000 slachtoffers maakte. De makers van het virus eistten tussen de 300 en 600 euro losgeld per getroffen apparaat, hoewel gelukkig niet iedereen dit heeft betaald. De totale schade door de aanvallen, waardoor onder andere bedrijven tijdelijk platlagen, loopt naar schattingen in de miljarden.
 
 ![Getroffen landen door WannaCry](https://upload.wikimedia.org/wikipedia/commons/3/3a/Countries_initially_affected_in_WannaCry_ransomware_attack.png)
 <p class="bijschrift">In totaal werden 150 landen getroffen door het WannaCry-virus.<br>Afbeelding door Roke <a href="https://commons.wikimedia.org/wiki/File:Countries_initially_affected_in_WannaCry_ransomware_attack.png" target="_blank">via WikiMedia</a>. Licentie onder <a href="https://creativecommons.org/licenses/by-sa/3.0" target = "_blank">CC BY-SA</a>.</p>
