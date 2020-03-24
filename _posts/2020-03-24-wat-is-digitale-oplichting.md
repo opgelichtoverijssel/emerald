@@ -26,7 +26,7 @@ Hierboven zie je een nepmail van 'Netflix'. De afzender is 'info@eaudition.in'. 
 
 Het kan ook zijn dat je een e-mail ontvangt die speciaal voor jou lijkt gemaakt. Dit is een 'gerichte' aanval, en wordt ook wel **spear phishing** genoemd. Dit komt vooral veel voor bij medewerkers van grote bedrijven of overheidsinstanties, politici, journalisten en andere beroemdheden. Maar het kan jou ook overkomen.
 
-Neem dit (niet waargebeurde) voorbeeld: Stel dat je klant bent van de ING Bank. Het zou kunnen dat de ING wordt gehackt, waarbij de e-mailadressen van alle ING-klanten worden buitgemaakt. Criminelen weten nu dat jij klant bent bij de ING, en zullen jou dus geen e-mails sturen namens de Rabobank. Dat is immers niet erg geloofwaardig:
+Neem dit (niet waargebeurde) voorbeeld: Stel dat je klant bent van de ING Bank. Het zou kunnen dat de ING wordt gehackt, waarbij de e-mailadressen van alle ING-klanten worden buitgemaakt. Criminelen weten nu dat jij klant bent bij de ING, en zullen jou dus geen berichten sturen namens ABN Amro. Dat is immers niet erg geloofwaardig:
 
 <div align="center"><blockquote style ="float: center" class="twitter-tweet" data-lang="nl" data-dnt="true"><p lang="nl" dir="ltr">Krijg net dit phishingbericht binnen. Ben geen klant bij Rabobank <a href="https://t.co/LecOBjlgFz">pic.twitter.com/LecOBjlgFz</a></p>&mdash; Daan van Monsjou 👨‍💻 (@daanvanmonsjou) <a href="https://twitter.com/daanvanmonsjou/status/1198239110227513344?ref_src=twsrc%5Etfw">23 november 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 <br>
