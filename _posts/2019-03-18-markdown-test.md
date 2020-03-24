@@ -23,7 +23,7 @@ ___
 
 ## YouTube-embed
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g72A9dVV18M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/g72A9dVV18M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Testlinkje
 <br>
