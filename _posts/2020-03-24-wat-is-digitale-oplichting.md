@@ -8,8 +8,10 @@ Digitale oplichting is een groeiend probleem. De laatste jaren melden steeds mee
 
 Dit komt misschien wat hard aan, maar de realiteit is dat digitale oplichting steeds vaker voorkomt, ook onder jongeren. Het CBS meldde in 2020 dat zelfs **ruim 17 procent** van alle jongeren **tussen de 15 en 25 jaar**, slachtoffer zijn geworden van digitale oplichting. Dat is het hoogste percentage onder alle leeftijdsgroepen.
 <br>
+
 <iframe title="Percentage slachtoffers cybercrime" aria-label="Bar Chart" id="datawrapper-chart-RsTy8" src="//datawrapper.dwcdn.net/RsTy8/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="239"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
+
 <br>
 Schrikbarende cijfers, maar vrees niet: **je kunt jezelf hiertegen beschermen**. Hoe? Daar gaan wij je de komende maanden mee helpen. Ook gaan we onderzoeken in hoeverre jullie je zorgen maken, en wat scholen en de overheid kunnen doen om jullie te steunen. Stay safe out there!
 
