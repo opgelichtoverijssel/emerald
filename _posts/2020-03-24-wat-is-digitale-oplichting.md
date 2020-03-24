@@ -22,7 +22,7 @@ Pharming blijft overigens zeker niet beperkt tot banken. Hackers sturen geregeld
 
 <a href="https://i.imgur.com/bWxLBK9.png"><img src="https://i.imgur.com/sbdDtVE.png" alt="Phishingmail Netflix"></a>
 
-Hierboven zie je een nepmail van 'Netflix'. De afzender is 'info@eaudition.in'. E-mails van Netflix zullen verstuurd worden vanaf een '@netflix.com'-mailadres. Er staat ook enkele tikfouten in de e-mail: ze schrijven bijvoorbeeld 'member ship' in plaats van 'membership'. Je kunt er gerust van uitgaan dat de berichten van bedrijven worden nagekeken voordat ze worden verzonden. De link in deze e-mail verwijst naar een Russische website die zich voordoet als Adidas, blijkt uit een checkje <a href="https://urlscan.io/result/41c90c07-7cb3-4332-a74e-cfa5916f8370" target = "_blank">via URLScan</a>. Er is hier dus sprake van pharming.
+Hierboven zie je een nepmail van 'Netflix'. De afzender is 'info@eaudition.in'. E-mails van Netflix zullen verstuurd worden vanaf een '@netflix.com'-mailadres. Er staat ook enkele tikfouten in de e-mail: ze schrijven bijvoorbeeld 'member ship' in plaats van 'membership'. Je kunt er gerust van uitgaan dat de berichten van bedrijven worden nagekeken voordat ze worden verzonden. De link in deze e-mail verwijst naar een Russische website die zich voordoet als Adidas, blijkt uit een checkje <a href="https://urlscan.io/result/41c90c07-7cb3-4332-a74e-cfa5916f8370" target = "_blank">via URLScan.io</a>. Er is hier dus sprake van pharming.
 
 Het kan ook zijn dat je een e-mail ontvangt die speciaal voor jou lijkt gemaakt. Dit is een 'gerichte' aanval, en wordt ook wel **spear phishing** genoemd. Dit komt vooral veel voor bij medewerkers van grote bedrijven of overheidsinstanties, politici, journalisten en andere beroemdheden. Maar het kan jou ook overkomen.
 
@@ -32,7 +32,7 @@ Neem dit (niet waargebeurde) voorbeeld: Stel dat je klant bent van de ING Bank. 
 <br>
 Dit klinkt erg eng, maar gelukkig zijn de berichten zelf niet schadelijk. Pas als je naar een nepsite gaat, of een bijlage download en opent, word je getroffen. Je kunt phishingmails en -berichten gewoon negeren. Tips om valse berichten te herkennen, [vind je bij de Fraudehelpdesk](https://www.fraudehelpdesk.nl/fraude/beoordeel-verdachte-e-mail/). Op deze website vind je ook [een actueel overzicht](https://www.fraudehelpdesk.nl/actueel/valse-emails/) van valse e-mails. 
 
-Twijfel je? Neem dan contact op met je bank, of met de dienst waarvan de mail lijkt te zijn. Check altijd voor de zekerheid waar een linkje je naartoe verwijst via [URLScan](https://urlscan.io/) of [checkjelinkje.nl](https://checkjelinkje.nl/). Die laatste is Nederlands, en controleert meteen of de website besmet is met malware. Dit werkt (bijna altijd) vrij goed.
+Twijfel je? Neem dan contact op met je bank, of met de dienst waarvan de mail lijkt te zijn. Check altijd voor de zekerheid waar een linkje je naartoe verwijst via [URLScan](https://urlscan.io/) of [checkjelinkje.nl](https://checkjelinkje.nl/). Die laatste is Nederlands, en controleert meteen of de website besmet is met malware. Dit werkt (bijna altijd) redelijk goed. Wel heeft Checkjelinkje soms moeite met bepaalde url's die meerdere keren doorverwezen worden, wat vaak het geval is bij phishing. URLScan is daar beter in. Gebruik dus altijd beide websites.
 
 ## Ransomware
 <br>
