@@ -60,6 +60,8 @@ Ransomware-aanvallen worden vaak gericht op bedrijven, scholen, overheden en and
 
 Je wapenen tegen ransomware is niet super moeilijk: open geen bijlagen in verdachte e-mails. Vrijwel alle ransomware-virussen worden verspreid via nepmails. Bij twijfel: open de bijlagen (zoals documenten, pdf'jes of afbeeldingen) via Google Docs! Zo kun je veilig de inhoud bekijken, zonder dat je het bestand hoeft te openen op je computer, laptop of smartphone.
 
+Maak daarnaast regelmatig back-ups van je apparaten, en sla deze op op een externe hardeschijf. Dit kun je gemakkelijk doen vanuit <a href="https://support.microsoft.com/nl-nl/help/4027408" target="_blank">Windows</a> en <a href="https://support.apple.com/mac-backup" target = "_blank">macOS</a>. Wanneer je getroffen wordt door een virus, kun je een back-up terugzetten. Zo behoud je je bestanden.
+
 ## Deepfakes
 <br>
 Deepfakes zijn zeer realistische **nepvideo's** van personen. Met behulp van **kunstmatige intelligentie** 'plakken' kwaadwillenden het gezicht van een persoon op een bepaalde video. Zo kan men bijvoorbeeld nepporno van een bekend persoon maken. Maar ze kunnen ook speeches van bijvoorbeeld politici namaken, en ze zo woorden in de mond leggen. Dit kan erg gevaarlijk zijn. Iemand kan bijvoorbeeld een nepvideo maken waarin Trump de oorlog aan Rusland verklaart.
