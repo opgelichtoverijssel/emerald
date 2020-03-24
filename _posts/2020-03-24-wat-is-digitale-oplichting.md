@@ -20,9 +20,8 @@ Oplichters roepen je in de **nepmail** op om in te loggen op een nepwebsite, die
 
 Pharming blijft overigens zeker niet beperkt tot banken. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven of diensten. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd. Zo hopen ze dat je je wachtwoord invult, waarna je account wordt gehackt en (vaak) verkocht.
 
-<div align="center"><a href="https://i.imgur.com/bWxLBK9.png">
-<img src="https://i.imgur.com/bWxLBK9.png" alt="Phishingmail Netflix"></a>
-<i><a href="https://i.imgur.com/bWxLBK9.png">Klik</a> voor fullscreen.</i></div>
+<a href="https://i.imgur.com/bWxLBK9.png"><img src="https://i.imgur.com/bWxLBK9.png" alt="Phishingmail Netflix"></a>
+<p align="center"><a href="https://i.imgur.com/bWxLBK9.png">Klik</a> voor fullscreen.</i></p>
 
 Hierboven zie je een nepmail van 'Netflix'. Let op de afzender: die is 'info@eaudition.in'. E-mails van Netflix zullen verstuurd worden vanuit een '@netflix.com'-mailadres. Er staat ook een tikfout in de e-mail: 'member ship' in plaats van 'membership'. Je kunt er gerust van uitgaan dat de berichten van bedrijven worden nagekeken voordat ze worden verzonden. De link in de e-mail verwijst naar een Russische website die zich voordoet als Adidas, blijkt uit een onderzoekje <a href="https://urlscan.io/result/41c90c07-7cb3-4332-a74e-cfa5916f8370" target = "_blank">via URLScan</a>. Er is hier dus sprake van pharming.
 
@@ -31,7 +30,7 @@ Het kan ook zijn dat je een e-mail ontvangt die speciaal voor jou lijkt gemaakt.
 Neem dit (niet waargebeurde) voorbeeld: Stel dat je klant bent van de ING Bank. Het zou kunnen dat de ING wordt gehackt, waarbij de e-mailadressen van alle ING-klanten worden buitgemaakt. Criminelen weten nu dat jij klant bent bij de ING, en zullen jou dus geen e-mails sturen namens de Rabobank. Dat is immers niet erg geloofwaardig:
 
 <div align="center"><blockquote style ="float: center" class="twitter-tweet" data-lang="nl" data-dnt="true"><p lang="nl" dir="ltr">Krijg net dit phishingbericht binnen. Ben geen klant bij Rabobank <a href="https://t.co/LecOBjlgFz">pic.twitter.com/LecOBjlgFz</a></p>&mdash; Daan van Monsjou 👨‍💻 (@daanvanmonsjou) <a href="https://twitter.com/daanvanmonsjou/status/1198239110227513344?ref_src=twsrc%5Etfw">23 november 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
+<br>
 Dit klinkt erg eng, maar gelukkig zijn de berichten zelf niet schadelijk. Pas als je naar een nepsite gaat, of een bijlage download en opent, word je getroffen. Je kunt phishingmails en -berichten gewoon negeren. Tips om valse berichten te herkennen, [vind je bij de Fraudehelpdesk](https://www.fraudehelpdesk.nl/fraude/beoordeel-verdachte-e-mail/). Op deze website vind je ook [een actueel overzicht](https://www.fraudehelpdesk.nl/actueel/valse-emails/) van valse e-mails. 
 
 Twijfel je? Neem dan contact op met je bank, of met de dienst waarvan de mail lijkt te zijn. Check altijd voor de zekerheid waar een linkje je naartoe verwijst via [URLScan](https://urlscan.io/) of [checkjelinkje.nl](https://checkjelinkje.nl/). Die laatste is Nederlands, en controleert meteen of de website besmet is met malware. Dit werkt (bijna altijd) vrij goed.
