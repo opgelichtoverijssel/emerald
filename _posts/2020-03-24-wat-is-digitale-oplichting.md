@@ -19,8 +19,8 @@ Phishing is een vorm van digitale oplichting waarbij criminelen proberen je wach
 Phishing is een erg breed begrip, en uit zich op verschillende manieren. Zo is er tegenwoordig Tikkie-fraude, waarmee iemand je vraagt om een Tikkie te betalen via een betaallink. Wanneer je op deze link klikt, word je omgeleid naar een valse website. Ook 
 
 Oplichters roepen je in de **nepmail** op om in te loggen op een nepwebsite, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd. Het gebruik van zulke nep-websites wordt **pharming** genoemd.
-
-<img src="https://i.imgur.com/bWxLBK9.png"/>
+<a href="https://i.imgur.com/bWxLBK9.png">
+<img src="https://i.imgur.com/bWxLBK9.png" alt="Phishingmail Netflix"></a>
 <p align="center"><i>Een nepmail van 'Netflix'. Let op de afzender: die is 'info@eaudition.in'.</i></p>
 
 Pharming is overigens niet beperkt tot banken. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven of diensten. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd.
