@@ -77,4 +77,5 @@ Deepfakes zijn zeer realistische **nepvideo's** van personen. Met behulp van **k
 
 Vooral beroemdheden worden getroffen door deepfakes, maar tegenwoordig kan bijna iedereen met minimale moeite zo'n filmpje maken.
 
+
 <br>
