@@ -24,16 +24,17 @@ Maar wat is digitale oplichting eigenlijk? Termen als **Phishing**, **ransomware
 <br>
 Phishing is een vorm van digitale oplichting waarbij criminelen proberen je wachtwoorden te stelen. Dit doen hackers bijvoorbeeld door je een nepbericht te sturen. Ze doen zich onder andere voor als je bank, die je vertellen dat je bankrekening is ‘geblokkeerd’, terwijl dit niet zo is. Dit gebeurt vaak via e-mail, maar criminelen sturen ook wel eens dergelijke berichten via andere diensten, zoals SMS of WhatsApp.
 
-Phishing is een erg breed begrip, en uit zich op verschillende manieren. Zo is er tegenwoordig Tikkie-fraude, waarmee iemand je vraagt om een Tikkie te betalen via een betaallink. Wanneer je op deze link klikt, word je omgeleid naar een valse website.
+Oplichters roepen je in de phishing-berichten vaak op om in te loggen op een **nepwebsite**, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd. Het gebruik van zulke nepwebsites wordt **pharming** genoemd. 
 
+Phishing en pharming zijn een erg breed begrippen, die zich op verschillende manieren uiten. Zo is er tegenwoordig **Tikkie-fraude**, een bepaalde vorm van phishing. Wanneer je op deze link klikt, word je gestuurd naar een website die lijkt op een Tikkie-betaalpagina. Maar in werkelijkheid is net een nepwebsite. Als je daar je gegevens invult, dan wordt je bankrekening geplunderd.
 
-Oplichters roepen je in de **nepberichten** op om in te loggen op een nepwebsite, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd. Het gebruik van zulke nepwebsites wordt **pharming** genoemd. 
-
-Pharming blijft overigens zeker niet beperkt tot banken. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven of diensten. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd. Zo hopen ze dat je je wachtwoord invult, waarna je account wordt gehackt en (vaak) verkocht.
+Pharming blijft overigens zeker niet beperkt tot banken en betaaldiensten. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd. Zo hopen ze dat je probeert in te loggen op een nepsite, waarna je account wordt gehackt.
 
 <a href="https://m5test.vanmonsjou.xyz/img/bWxLBK9.png" title="Phishingmail Netflix"><img src="https://m5test.vanmonsjou.xyz/img/sbdDtVE.png" alt="Phishingmail Netflix"></a>
 
-Hierboven zie je een nepmail van 'Netflix'. De afzender is 'info@eaudition.in'. E-mails van Netflix zullen verstuurd worden vanaf een '@netflix.com'-mailadres. Er staat ook enkele tikfouten in de e-mail: ze schrijven bijvoorbeeld 'member ship' in plaats van 'membership'. Je kunt er gerust van uitgaan dat de berichten van bedrijven worden nagekeken voordat ze worden verzonden. De link in deze e-mail verwijst naar een Russische website die zich voordoet als Adidas, blijkt uit een checkje <a href="https://urlscan.io/result/41c90c07-7cb3-4332-a74e-cfa5916f8370" target = "_blank">via URLScan.io</a>. Er is hier dus sprake van pharming.
+<p class="bijschrift">Een voorbeeld van een phishingmail. Deze doet zich voor als een e-mail van Netflix.</p>
+
+Hierboven zie je een nepmail van 'Netflix', die op het eerste oog redelijk geloofwaardig lijkt. De afzender is echter 'info@eaudition.in'. E-mails van Netflix zullen verstuurd worden vanaf een '@netflix.com'-mailadres. Er staat ook enkele tikfouten in de e-mail: ze schrijven bijvoorbeeld 'member ship' in plaats van 'membership'. Je kunt er gerust van uitgaan dat de berichten van bedrijven worden nagekeken voordat ze worden verzonden. De link in deze e-mail verwijst naar een Russische website die zich voordoet als Adidas, blijkt uit een checkje <a href="https://urlscan.io/result/41c90c07-7cb3-4332-a74e-cfa5916f8370" target = "_blank">via URLScan.io</a>. Er is hier dus sprake van pharming.
 
 Het kan ook zijn dat je een e-mail ontvangt die speciaal voor jou lijkt gemaakt. Dit is een 'gerichte' aanval, en wordt ook wel **spear phishing** genoemd. Dit komt vooral veel voor bij medewerkers van grote bedrijven of overheidsinstanties, politici, journalisten en andere beroemdheden. Maar het kan jou ook overkomen.
 
@@ -56,16 +57,18 @@ Ransomware wordt vaak verspreid via phishingmails. Criminelen sturen je bijvoorb
 
 Criminelen vragen je vervolgens om **losgeld** te betalen, vaak in de vorm van Bitcoins. De oplichter beloven dat ze je bestanden teruggeven zodra je betaald hebt, maar dit is lang niet altijd het geval. Soms komt het voor dat mensen voor honderden euro's aan losgeld betalen, en vervolgens alsnog hun bestanden kwijtraken.
 
-![GandCrab-ransomware](https://blog.malwarebytes.com/wp-content/uploads/2018/01/GanCrab.png "GandCrab-ransomware")
-<p class="bijschrift">Een voorbeeld van een ransomware-infectie. Afbeelding via <a href="https://www.malwarebytes.com/gandcrab/" target="_blank">MalwareBytes</a></p>
+<a href="https://blog.malwarebytes.com/wp-content/uploads/2018/01/GanCrab.png" title="GandCrab-ransomware"><img src="https://blog.malwarebytes.com/wp-content/uploads/2018/01/GanCrab.png" alt="GandCrab-ransomware"></a>
+
+<p class="bijschrift">Een voorbeeld van een ransomware-infectie. Afbeelding via <a href="https://www.malwarebytes.com/gandcrab/" target="_blank">MalwareBytes</a>.</p>
 
 Ransomware-infecties komen steeds vaker voor. Zo werd de Universiteit van Maastricht eind vorig jaar <a href="https://www.maastrichtuniversity.nl/um-cyber-attack-symposium-%E2%80%93-lessons-learnt" target = "_blank">getroffen door ransomware</a>. De infectie kwam binnen via een phishingmail op een oude laptop. Hierdoor konden honderden studenten wekenlang geen gebruikmaken van de computers op de campus.
 
 Uiteindelijk betaalde de Universiteit bijna twee ton aan losgeld. Hun bestanden werden vervolgens wél ontsleuteld. Toch bleek het een controversiële keuze, omdat de Universiteit wordt gefinancierd met belastinggeld.
 
-Een ander bekend voorbeeld van ransomware is [de uitbraak van WannaCry](https://www.wikiwand.com/nl/WannaCry), dat gedurende een paar maanden in 2017 bijna 200.000 slachtoffers maakte. De makers van het virus eistten tussen de 300 en 600 euro losgeld per getroffen apparaat, hoewel gelukkig niet iedereen dit heeft betaald. De totale schade door de aanvallen, waardoor onder andere bedrijven tijdelijk platlagen, loopt naar schattingen in de miljarden.
+Een ander bekend voorbeeld van ransomware is [de uitbraak van WannaCry](https://www.wikiwand.com/nl/WannaCry), dat gedurende een paar maanden in 2017 bijna 200.000 slachtoffers maakte. De makers van die ransomware eisten tussen de 300 en 600 euro losgeld per getroffen apparaat, hoewel gelukkig niet iedereen dit heeft betaald. De totale schade door de aanvallen, waardoor onder andere bedrijven tijdelijk platlagen, loopt naar schattingen in de miljarden.
 
-![Getroffen landen door WannaCry](https://upload.wikimedia.org/wikipedia/commons/3/3a/Countries_initially_affected_in_WannaCry_ransomware_attack.png "Getroffen landen door WannaCry")
+<a href="https://upload.wikimedia.org/wikipedia/commons/3/3a/Countries_initially_affected_in_WannaCry_ransomware_attack.png" title="Getroffen landen door WannaCry"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Countries_initially_affected_in_WannaCry_ransomware_attack.png" alt="Getroffen landen door WannaCry"></a>
+
 <p class="bijschrift">In totaal werden 150 landen getroffen door WannaCry.<br>Afbeelding door Roke <a href="https://commons.wikimedia.org/wiki/File:Countries_initially_affected_in_WannaCry_ransomware_attack.png" target="_blank">via WikiMedia</a>. Licentie onder <a href="https://creativecommons.org/licenses/by-sa/3.0" target = "_blank">CC BY-SA</a>.</p>
 
 Ransomware-aanvallen worden vaak gericht op bedrijven, scholen, overheden en andere grote instanties, maar ook doodgewone mensen kunnen dus getroffen worden door zo'n virus. Voor sommige soorten ransomware zijn inmiddels gratis *tools* uitgebracht waarmee je je bestanden kunt terugkrijgen, zoals bij het voorheen beruchte <a href="https://labs.bitdefender.com/2018/10/gandcrab-ransomware-decryption-tool-available-for-free/" target = "_blank">GandCrab</a>. Helaas is dit overigens lang niet altijd het geval.
