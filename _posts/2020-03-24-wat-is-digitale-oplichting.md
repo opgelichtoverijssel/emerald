@@ -70,7 +70,7 @@ Een ander bekend voorbeeld van ransomware is <a href="https://www.wikiwand.com/n
 
 <a href="https://upload.wikimedia.org/wikipedia/commons/3/3a/Countries_initially_affected_in_WannaCry_ransomware_attack.png" title="Getroffen landen door WannaCry"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Countries_initially_affected_in_WannaCry_ransomware_attack.png" alt="Getroffen landen door WannaCry"></a>
 
-<p class="bijschrift">In totaal werden 150 landen getroffen door WannaCry.<br>Afbeelding door Roke <a href="https://commons.wikimedia.org/wiki/File:Countries_initially_affected_in_WannaCry_ransomware_attack.png" target="_blank">via WikiMedia</a>. Licentie onder <a href="https://creativecommons.org/licenses/by-sa/3.0" target = "_blank">CC BY-SA</a>.</p>
+<p class="bijschrift">De WannaCry-ransomware is opgedoken in wel 150 landen.<br>Afbeelding door Roke <a href="https://commons.wikimedia.org/wiki/File:Countries_initially_affected_in_WannaCry_ransomware_attack.png" target="_blank">via WikiMedia</a>. Licentie onder <a href="https://creativecommons.org/licenses/by-sa/3.0" target = "_blank">CC BY-SA</a>.</p>
 
 Ransomware-aanvallen worden vaak gericht op bedrijven, scholen, overheden en andere grote instanties, maar ook doodgewone mensen kunnen dus getroffen worden door zo'n virus. Voor sommige soorten ransomware zijn inmiddels gratis *tools* uitgebracht waarmee je je bestanden kunt terugkrijgen, zoals bij het voorheen beruchte <a href="https://labs.bitdefender.com/2018/10/gandcrab-ransomware-decryption-tool-available-for-free/" target = "_blank">GandCrab</a>, maar helaas is dit lang niet altijd het geval.
 
