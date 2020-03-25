@@ -52,7 +52,7 @@ Wil je weten of je e-mailadres is buitgemaakt bij een datalek, en dus extra moet
 
 ## Ransomware
 <br>
-Ransomware is een soort **computervirus** dat de laatste jaren een flinke opmars maakt. Ransomware **'versleutelt'** je documenten, foto's, video's, en andere bestanden. Dat wil zeggen dat je je bestanden niet meer kunt openen zonder een (enorm lang en sterk) wachtwoord: de sleutel, dus.
+Ransomware, ook wel bekend als gijzelsoftware, is een soort **computervirus** dat de laatste jaren een flinke opmars maakt. Ransomware **'versleutelt'** je documenten, foto's, video's, en andere bestanden. Dat wil zeggen dat je je bestanden niet meer kunt openen zonder een (enorm lang en sterk) wachtwoord: de sleutel, dus.
 
 Ransomware wordt vaak verspreid via phishingmails. Criminelen sturen je bijvoorbeeld een e-mail met een **geïnfecteerde bijlage**, zoals een Word-document of PDF-bestand. Wanneer je deze opent, wordt je computer of laptop besmet.
 
@@ -80,7 +80,7 @@ Zorg ook dat je zo snel mogelijk **updates installeert** op je apparaten. Dat ge
 
 Maak daarnaast regelmatig **back-ups** van je apparaten, en sla deze op op een externe hardeschijf. Dit kun je gemakkelijk doen vanuit <a href="https://support.microsoft.com/nl-nl/help/4027408" target="_blank">Windows</a> en <a href="https://support.apple.com/mac-backup" target = "_blank">macOS</a>. Als je toch getroffen wordt door ransomware of een ander computervirus, dan kun je vaak gewoon je back-up terugzetten. Zo behoud je gewoon je bestanden.
 
-Mocht je toch getroffen worden door ransomware en geen back-up hebben, **betaal nooit zomaar losgeld**. Maak altijd een melding bij de <a href="https://www.fraudehelpdesk.nl" target="_blank">Fraudehelpdesk</a>. Zij zullen je advies geven over wat je het beste kunt doen. 
+Mocht je toch getroffen worden door ransomware en geen back-up hebben, **betaal nooit zomaar losgeld**. Neem direct contact op met de <a href="https://www.fraudehelpdesk.nl" target="_blank">Fraudehelpdesk</a>. Zij zullen je advies geven over wat je het beste kunt doen. 
 
 Voor sommige soorten ransomware zijn inmiddels gratis zogeheten *decryptors* uitgebracht waarmee je je bestanden kunt terugkrijgen, zoals bij het voorheen beruchte <a href="https://labs.bitdefender.com/2018/10/gandcrab-ransomware-decryption-tool-available-for-free/" target = "_blank">GandCrab</a>. De Politie heeft tegenwoordig, in samenwerking met Interpol en antivirussoftwaremakers McAfee en Kaspersky, <a href="https://www.nomoreransom.org/nl/index.html" target="_blank">een website</a> opgezet die controleert of er een decryptor bestaat voor de ransomware-variant die jouw apparaat heeft geïnfecteerd. Als dit het geval is, dan kun je al je bestanden kosteloos versleutelen. Let wel dat dit helaas niet altijd het geval is.
 
