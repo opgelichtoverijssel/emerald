@@ -9,7 +9,7 @@ Digitale oplichting is een groeiend probleem. De laatste jaren melden steeds mee
 <iframe title="Totale schade door digitale oplichting in euro's" aria-label="Column Chart" id="datawrapper-chart-lGt5y" src="//datawrapper.dwcdn.net/lGt5y/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
-Dit komt misschien wat hard aan, maar de realiteit is dat digitale oplichting steeds vaker voorkomt, ook onder jongeren. Het CBS meldde in 2020 dat zelfs **ruim 17 procent** van alle jongeren **tussen de 15 en 25 jaar**, slachtoffer zijn geworden van digitale oplichting. Dat is het hoogste percentage onder alle leeftijdsgroepen. Sterker nog: hoe jonger de doelgroep, hoe hoger het percentage slachtoffers van digitale fraude.
+Dit komt misschien wat hard aan, maar de realiteit is dat digitale oplichting steeds vaker voorkomt, ook onder jongeren. Het CBS <a href="https://longreads.cbs.nl/veiligheidsmonitor-2019/slachtofferschap-criminaliteit/" target="_blank">meldde in 2020</a> zelfs dat **ruim 17 procent** van alle jongeren **tussen de 15 en 25 jaar**, slachtoffer zijn geworden van digitale oplichting. Dat is het hoogste percentage onder alle leeftijdsgroepen. Sterker nog: hoe jonger de doelgroep, hoe hoger het percentage slachtoffers van digitale fraude.
 <br>
 
 <iframe title="Percentage slachtoffers cybercrime naar leeftijd" aria-label="Bar Chart" id="datawrapper-chart-RsTy8" src="//datawrapper.dwcdn.net/RsTy8/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="211"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
@@ -22,11 +22,11 @@ Maar wat is digitale oplichting eigenlijk? Termen als **Phishing**, **ransomware
 
 ## Phishing
 <br>
-Phishing is een vorm van digitale oplichting waarbij criminelen proberen je wachtwoorden te stelen. Dit doen hackers bijvoorbeeld door je een nepbericht te sturen. Ze doen zich onder andere voor als je bank, die je vertellen dat je bankrekening is ‘geblokkeerd’, terwijl dit niet zo is. Dit gebeurt vaak via e-mail, maar criminelen sturen ook wel eens dergelijke berichten via andere diensten, zoals SMS of WhatsApp.
+Phishing is een vorm van digitale oplichting waarbij criminelen proberen je wachtwoorden te stelen. Dit doen hackers bijvoorbeeld door je een **nepbericht** te sturen. Ze doen zich onder andere voor als je bank, die je vertellen dat je bankrekening is ‘geblokkeerd’, terwijl dit niet zo is. Dit gebeurt vaak via e-mail, maar criminelen sturen ook wel eens dergelijke berichten via andere diensten, zoals SMS of WhatsApp.
 
 Oplichters roepen je in de phishing-berichten vaak op om in te loggen op een **nepwebsite**, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd. Het gebruik van zulke nepwebsites wordt **pharming** genoemd. 
 
-Phishing en pharming zijn een erg breed begrippen, die zich op verschillende manieren uiten. Zo is er tegenwoordig **Tikkie-fraude**, een bepaalde vorm van phishing. Wanneer je op deze link klikt, word je gestuurd naar een website die lijkt op een Tikkie-betaalpagina. Maar in werkelijkheid is net een nepwebsite. Als je daar je gegevens invult, dan wordt je bankrekening geplunderd.
+Phishing en pharming zijn een erg brede begrippen, die ieder op verschillende manieren voorkomen. Zo is er tegenwoordig **Tikkie-fraude**, een bepaalde vorm van phishing. Wanneer je op deze link klikt, word je gestuurd naar een website die lijkt op een Tikkie-betaalpagina. Maar in werkelijkheid is net een nepwebsite. Als je daar je gegevens invult, dan wordt je bankrekening geplunderd.
 
 Pharming blijft overigens zeker niet beperkt tot banken en betaaldiensten. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd. Zo hopen ze dat je probeert in te loggen op een nepsite, waarna je account wordt gehackt.
 
@@ -41,6 +41,7 @@ Het kan ook zijn dat je een e-mail ontvangt die speciaal voor jou lijkt gemaakt.
 Neem dit (niet waargebeurde) voorbeeld: Stel dat je klant bent van de ING Bank. Het zou kunnen dat de ING Bank wordt gehackt, waarbij de e-mailadressen van alle ING-klanten worden buitgemaakt. Criminelen weten nu dat jij klant bent bij ING, en zullen jou dus geen berichten sturen namens ABN Amro. Dat is immers niet erg geloofwaardig:
 
 <div align="center"><blockquote style ="float: center" class="twitter-tweet" data-lang="nl" data-dnt="true"><p lang="nl" dir="ltr">Krijg net dit phishingbericht binnen. Ben geen klant bij Rabobank <a href="https://t.co/LecOBjlgFz">pic.twitter.com/LecOBjlgFz</a></p>&mdash; Daan van Monsjou 👨‍💻 (@daanvanmonsjou) <a href="https://twitter.com/daanvanmonsjou/status/1198239110227513344?ref_src=twsrc%5Etfw">23 november 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
 <p class="bijschrift">Criminelen zijn ook actief via SMS en WhatsApp.</p>
 <br>
 Dit klinkt allemaal enorm eng, maar gelukkig zijn de berichten zelf nooit schadelijk. Pas als je naar een nepsite gaat, of een bijlage downloadt en opent, word je getroffen. Je kunt phishingmails en -berichten dan ook gewoon negeren. Tips om valse berichten te herkennen, [vind je bij de Fraudehelpdesk](https://www.fraudehelpdesk.nl/fraude/beoordeel-verdachte-e-mail/). Op deze website vind je ook [een actueel overzicht](https://www.fraudehelpdesk.nl/actueel/valse-emails/) van valse e-mails. 
@@ -53,7 +54,7 @@ Wil je weten of je e-mailadres is buitgemaakt bij een datalek, en dus extra moet
 <br>
 Ransomware is een soort **computervirus** dat de laatste jaren een flinke opmars maakt. Ransomware **'versleutelt'** je documenten, foto's, video's, en andere bestanden. Dat wil zeggen dat je je bestanden niet meer kunt openen zonder een (enorm lang en sterk) wachtwoord: de sleutel, dus.
 
-Ransomware wordt vaak verspreid via phishingmails. Criminelen sturen je bijvoorbeeld een e-mail met een geïnfecteerd Word-document of PDF-bestand. Wanneer je deze opent, wordt je computer of laptop besmet.
+Ransomware wordt vaak verspreid via phishingmails. Criminelen sturen je bijvoorbeeld een e-mail met een **geïnfecteerde bijlage**, zoals een Word-document of PDF-bestand. Wanneer je deze opent, wordt je computer of laptop besmet.
 
 Criminelen vragen je vervolgens om **losgeld** te betalen, vaak in de vorm van Bitcoins. De oplichter beloven dat ze je bestanden teruggeven zodra je betaald hebt, maar dit is lang niet altijd het geval. Soms komt het voor dat mensen voor honderden euro's aan losgeld betalen, en vervolgens alsnog hun bestanden kwijtraken.
 
@@ -65,7 +66,7 @@ Ransomware-infecties komen steeds vaker voor. Zo werd de Universiteit van Maastr
 
 Uiteindelijk betaalde de Universiteit bijna twee ton aan losgeld. Hun bestanden werden vervolgens wél ontsleuteld. Toch bleek het een controversiële keuze, omdat de Universiteit wordt gefinancierd met belastinggeld.
 
-Een ander bekend voorbeeld van ransomware is [de uitbraak van WannaCry](https://www.wikiwand.com/nl/WannaCry), dat gedurende een paar maanden in 2017 bijna 200.000 slachtoffers maakte. De makers van die ransomware eisten tussen de 300 en 600 euro losgeld per getroffen apparaat, hoewel gelukkig niet iedereen dit heeft betaald. De totale schade door de aanvallen, waardoor onder andere bedrijven tijdelijk platlagen, loopt naar schattingen in de miljarden.
+Een ander bekend voorbeeld van ransomware is <a href="https://www.wikiwand.com/nl/WannaCry" target="_blank">de uitbraak van **WannaCry**</a>, dat gedurende een paar maanden in 2017 bijna 200.000 slachtoffers maakte. De makers van die ransomware eisten tussen de 300 en 600 euro losgeld per getroffen apparaat, hoewel gelukkig niet iedereen dit heeft betaald. De totale schade door de aanvallen, waardoor onder andere bedrijven tijdelijk platlagen, loopt naar schattingen in de miljarden.
 
 <a href="https://upload.wikimedia.org/wikipedia/commons/3/3a/Countries_initially_affected_in_WannaCry_ransomware_attack.png" title="Getroffen landen door WannaCry"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Countries_initially_affected_in_WannaCry_ransomware_attack.png" alt="Getroffen landen door WannaCry"></a>
 
