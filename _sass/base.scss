@@ -92,3 +92,7 @@ a {
 		color: darken($main-color, 5%);
 	}
 }
+
+html {
+    overflow-y:scroll;
+}
