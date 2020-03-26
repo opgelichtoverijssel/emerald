@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Auteur: Daan van Monsjou"
+title: "Tag: Daan"
 tag: Daan
 ---
