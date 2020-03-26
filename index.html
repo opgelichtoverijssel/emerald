@@ -2,6 +2,7 @@
 layout: default
 ---
 <!-- Posts -->
+
 <ul id="posts">
 
 	{% for post in paginator.posts %}
@@ -9,10 +10,10 @@ layout: default
 	  <li class="post">
 	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
 	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
-	  	<p>{{ post.description | strip_html | truncatewords:50 }}</p>
+		<p>{{ post.description | strip_html | truncatewords:100 }}</p>
 	  </li>
 
     {% endfor %}
 
 </ul>
-<br>
+
