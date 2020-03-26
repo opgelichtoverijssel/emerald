@@ -4,7 +4,7 @@ layout: default
 <div class="post">
 <h2>Artikelen door {{ page.tag }}</h2>
   <br>
-<ul>
+<ul class="taglijst">
 {% for post in site.tags[page.tag] %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
     {{ post.description }}<br>
