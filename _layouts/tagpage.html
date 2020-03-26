@@ -2,7 +2,8 @@
 layout: default
 ---
 <div class="post">
-<h1>Tag: {{ page.tag }}</h1>
+<h2>Auteur: {{ page.tag }}</h2>
+  <br>
 <ul>
 {% for post in site.tags[page.tag] %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
@@ -10,5 +11,6 @@ layout: default
   </li>
 {% endfor %}
 </ul>
+  <br>
 </div>
 <hr>
