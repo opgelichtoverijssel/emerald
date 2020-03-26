@@ -85,3 +85,10 @@ a {
 		color: darken($main-color, 5%);
 	}
 }
+
+#posts {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  line-height: 1.5em;
+}
