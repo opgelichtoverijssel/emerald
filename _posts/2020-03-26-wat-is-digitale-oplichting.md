@@ -1,11 +1,9 @@
 ---
 title: Wat is Digitale Oplichting?
 tag: Daan
-description: Digitale oplichting is een groeiend probleem. In 2019 liep de schade zelfs op tot ruim 26 miljoen euro, terwijl dat bedrag twee jaar eerder aanzienlijk minder was. Uit cijfers van het CBS blijkt zelfs dat jongeren vaker dan ooit slachtoffer worden van online fraude. Maar wat is digitale oplichting eigenlijk? Dat leggen wij voor je uit!
 ---
-<p class="auteur">Auteur: <a href="https://opgelichtoverijssel.nl/tag/Daan">Daan van Monsjou</a>.</p>
+<p class="auteur">Auteur: <a href="https://opgelichtoverijssel.nl/tag/Daan">Daan van Monsjou</a></p>
 <br>
-
 
 Digitale oplichting is een groeiend probleem. De laatste jaren melden steeds meer slachtoffers zich bij de <a href="https://www.fraudehelpdesk.nl" target="_blank">Fraudehelpdesk</a>, en de schade loopt inmiddels jaarlijks in de miljoenen euro's. In 2019 liep de schade zelfs op tot ruim 25 miljoen euro, terwijl dat bedrag twee jaar eerder aanzienlijk lager lag.<br>
 
@@ -27,7 +25,7 @@ Maar wat is digitale oplichting eigenlijk? Termen als **Phishing**, **ransomware
 <br>
 Phishing is een vorm van digitale oplichting waarbij criminelen proberen je wachtwoorden te stelen. Dit doen hackers bijvoorbeeld door je een **nepbericht** te sturen. Ze doen zich onder andere voor als je bank, die je vertellen dat je bankrekening is ‘geblokkeerd’, terwijl dit niet zo is. Dit gebeurt vaak via e-mail, maar criminelen sturen ook wel eens dergelijke berichten via andere diensten, zoals SMS of WhatsApp.
 
-Oplichters roepen je in de phishing-berichten vaak op om in te loggen op een **nepwebsite**, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd. Het gebruik van zulke nepwebsites wordt **pharming** genoemd. 
+Oplichters roepen je in de phishing-berichten vaak op om in te loggen op een **nepwebsite**, die zogenaamd ook van je bank is. Wanneer je daar je bankgegevens invult, wordt je bankrekening leeggeplunderd. Het gebruik van zulke nepwebsites wordt **pharming** genoemd.
 
 Phishing en pharming zijn een erg brede begrippen, die ieder op verschillende manieren voorkomen. Zo is er tegenwoordig **Tikkie-fraude**, een bepaalde vorm van phishing. Wanneer je op deze link klikt, word je gestuurd naar een website die lijkt op een Tikkie-betaalpagina. Maar in werkelijkheid is net een nepwebsite. Als je daar je gegevens invult, dan wordt je bankrekening geplunderd.
 
@@ -47,9 +45,9 @@ Neem dit (niet waargebeurde) voorbeeld: Stel dat je klant bent van de ING Bank. 
 
 <p class="bijschrift">Criminelen zijn ook actief via SMS en WhatsApp.</p>
 <br>
-Dit klinkt allemaal enorm eng, maar gelukkig zijn de berichten zelf nooit schadelijk. Pas als je naar een nepsite gaat, of een bijlage downloadt en opent, word je getroffen. Je kunt phishingmails en -berichten dan ook gewoon negeren. Tips om valse berichten te herkennen, [vind je bij de Fraudehelpdesk](https://www.fraudehelpdesk.nl/fraude/beoordeel-verdachte-e-mail/). Op deze website vind je ook [een actueel overzicht](https://www.fraudehelpdesk.nl/actueel/valse-emails/) van valse e-mails. 
+Dit klinkt allemaal enorm eng, maar gelukkig zijn de berichten zelf nooit schadelijk. Pas als je naar een nepsite gaat, of een bijlage downloadt en opent, word je getroffen. Je kunt phishingmails en -berichten dan ook gewoon negeren. Tips om valse berichten te herkennen, [vind je bij de Fraudehelpdesk](https://www.fraudehelpdesk.nl/fraude/beoordeel-verdachte-e-mail/). Op deze website vind je ook [een actueel overzicht](https://www.fraudehelpdesk.nl/actueel/valse-emails/) van valse e-mails.
 
-Twijfel je? Neem dan contact op met je bank, of met de dienst waarvan de mail lijkt te zijn. Check altijd voor de zekerheid waar een linkje je naartoe verwijst via [URLScan](https://urlscan.io/) of [checkjelinkje.nl](https://checkjelinkje.nl/). Die laatste is Nederlands, en controleert meteen of de website besmet is met malware. Dit werkt (bijna altijd) redelijk goed. Wel heeft Checkjelinkje soms moeite met linkjes die meerdere keren worden doorverwezen, wat vaak het geval is bij phishing. URLScan is daar wat beter in. Gebruik dus bij voorkeur beide websites. 
+Twijfel je? Neem dan contact op met je bank, of met de dienst waarvan de mail lijkt te zijn. Check altijd voor de zekerheid waar een linkje je naartoe verwijst via [URLScan](https://urlscan.io/) of [checkjelinkje.nl](https://checkjelinkje.nl/). Die laatste is Nederlands, en controleert meteen of de website besmet is met malware. Dit werkt (bijna altijd) redelijk goed. Wel heeft Checkjelinkje soms moeite met linkjes die meerdere keren worden doorverwezen, wat vaak het geval is bij phishing. URLScan is daar wat beter in. Gebruik dus bij voorkeur beide websites.
 
 Wil je weten of je e-mailadres is buitgemaakt bij een datalek, en dus extra moet uitkijken voor spear phishing? Vul hem in op <a href="https://haveibeenpwned.com/" target = "_blank">HaveIbeenPwned.com</a>. Schrik niet als dit het geval is: datalekken komen erg vaak voor. Bovendien wil zo'n datalek niet meteen zeggen dat hackers toegang hebben tot je account. Verander voor de zekerheid gewoon je wachtwoord en hou je mail in de gaten.
 
@@ -69,7 +67,7 @@ Ransomware-infecties komen steeds vaker voor. Zo werd de Universiteit van Maastr
 
 Uiteindelijk betaalde de Universiteit bijna twee ton aan losgeld. Hun bestanden werden vervolgens wél ontsleuteld. Toch bleek het een controversiële keuze, omdat de Universiteit wordt gefinancierd met belastinggeld.
 
-Een ander bekend voorbeeld van ransomware is <a href="https://www.wikiwand.com/nl/WannaCry" target="_blank">de uitbraak van **WannaCry**</a>. Die ransomware kon alleen computers treffen die niet geüpdatet waren, maar toch trof dat computervirus in korte tijd ruim 200.000 apparaten. De makers van die ransomware eisten tussen de 300 en 600 euro losgeld per getroffen apparaat, hoewel gelukkig niet iedereen dit heeft betaald. 
+Een ander bekend voorbeeld van ransomware is <a href="https://www.wikiwand.com/nl/WannaCry" target="_blank">de uitbraak van **WannaCry**</a>. Die ransomware kon alleen computers treffen die niet geüpdatet waren, maar toch trof dat computervirus in korte tijd ruim 200.000 apparaten. De makers van die ransomware eisten tussen de 300 en 600 euro losgeld per getroffen apparaat, hoewel gelukkig niet iedereen dit heeft betaald.
 
 De totale schade door de WannaCry-aanval, waardoor onder andere enkele grote bedrijven tijdelijk platlagen, loopt naar schattingen op tot wel 3,7 miljard euro. Een maand na de aanval met WannaCry, werd een deel van de Rotterdamse Haven getroffen door een andere ransomware. Dat kostte ook weer miljoenen.
 
@@ -83,7 +81,7 @@ Zorg ook dat je zo snel mogelijk **alle updates installeert** op je apparaten. D
 
 Maak daarnaast regelmatig **back-ups** van je apparaten, en sla deze op op een externe hardeschijf. Dit kun je gemakkelijk doen vanuit <a href="https://support.microsoft.com/nl-nl/help/4027408" target="_blank">Windows</a> en <a href="https://support.apple.com/mac-backup" target = "_blank">macOS</a>. Als je toch getroffen wordt door ransomware of een ander computervirus, dan kun je vaak gewoon je back-up terugzetten. Zo behoud je gewoon je bestanden.
 
-Mocht je toch getroffen worden door ransomware en geen back-up hebben, **betaal nooit zomaar losgeld**. Neem direct contact op met de <a href="https://www.fraudehelpdesk.nl" target="_blank">Fraudehelpdesk</a>. Zij zullen je advies geven over wat je het beste kunt doen. 
+Mocht je toch getroffen worden door ransomware en geen back-up hebben, **betaal nooit zomaar losgeld**. Neem direct contact op met de <a href="https://www.fraudehelpdesk.nl" target="_blank">Fraudehelpdesk</a>. Zij zullen je advies geven over wat je het beste kunt doen.
 
 Voor sommige soorten ransomware zijn inmiddels gratis zogeheten *decryptors* uitgebracht waarmee je je bestanden kunt terugkrijgen, zoals bij het voorheen beruchte <a href="https://labs.bitdefender.com/2018/10/gandcrab-ransomware-decryption-tool-available-for-free/" target = "_blank">GandCrab</a>. De Politie heeft, in samenwerking met Interpol en antivirussoftwaremakers McAfee en Kaspersky, <a href="https://www.nomoreransom.org/nl/index.html" target="_blank">een website</a> opgezet die controleert of er een decryptor bestaat voor de ransomware-variant die jouw apparaat heeft geïnfecteerd. Als dit het geval is, dan kun je meestal je bestanden kosteloos ontgrendelen. Let wel dat dit helaas niet altijd het geval is.
 
@@ -93,6 +91,6 @@ Deepfakes zijn een vorm van **identiteitsfraude**. Dit zijn zeer realistische **
 
 <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/cQ54GDm1eL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p class="bijschrift"><br>Deze video van BuzzFeed toont de gevaren van deepfakes.</p>
-  
+ 
 Vooral beroemdheden worden getroffen door deepfakes, maar tegenwoordig kan bijna iedereen met minimale moeite zo'n filmpje maken.
 
