@@ -1,11 +1,11 @@
 # Site settings
-title: "Opgelicht Overijssel"
-description: "Een onderzoeksplatform naar Digitale Oplichting in Overijsel"
-url: "opgelichtoverijssel.nl"
+title: "Opgelicht in Overijssel"
+description: "Onderzoek naar digitale oplichting in Overijssel"
+url: "https://opgelichtoverijssel.nl"
 author:
-  name: "Redactie"
+  name: "Redactie Opgelicht Overijssel"
   email: "info@opgelichtoverijssel.nl"
-  url: "opgelichtoverijssel.nl"
+  url: "https://opgelichtoverijssel.nl"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
