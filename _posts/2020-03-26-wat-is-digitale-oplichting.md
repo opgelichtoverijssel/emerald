@@ -18,7 +18,7 @@ Dit komt misschien wat hard aan, maar de realiteit is dat digitale oplichting st
 </script>
 
 <br>
-Schrikbarende cijfers, maar vrees niet: **je kunt jezelf hiertegen beschermen**. Hoe? Daar gaan wij je de komende maanden mee helpen. Ook gaan we onderzoeken in hoeverre jullie je zorgen maken, en wat scholen en de overheid kunnen doen om jullie te steunen. Stay safe out there!
+Schrikbarende cijfers, maar vrees niet: **je kunt jezelf hiertegen beschermen**. Hoe? Daar gaan wij je de komende maanden mee helpen. Ook gaan we onderzoeken in hoeverre jullie je zorgen maken, en wat scholen en de overheid kunnen doen om jullie te steunen.
 
 Maar wat is digitale oplichting eigenlijk? Termen als **Phishing**, **ransomware** en **deepfakes** zijn soms moeilijk te begrijpen, hoewel het tegenwoordig erg gemakkelijk is om met ze in aanraking te komen. En als dat nog niet is gebeurd, dan is de kans groot dat jij of een vriend(in) er op termijn alsnog mee te maken krijgt. Het is hierom belangrijk om te weten wat digitale fraude inhoudt. Hieronder vind je een uitleg, compleet met wat tips en tricks.
 
