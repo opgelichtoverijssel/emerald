@@ -1,7 +1,7 @@
 ---
 title: Wat is Digitale Oplichting?
 tag: Daan
-description: Digitale oplichting is een groeiend probleem. Steeds vaker worden jongeren slachtoffer van dingen als phishing, online verkoopfraude of ransomware. Maar wat betekenen deze termen allemaal? Dat leggen wij voor je uit!
+description: Digitale oplichting is een groeiend probleem. Uit cijfers blijkt dat jongeren steeds vaker slachtoffer worden van dingen als phishing, online verkoopfraude of ransomware. Maar wat betekenen deze termen allemaal? Dat leggen wij voor je uit!
 ---
 <p class="auteur">Auteur: <a href="https://opgelichtoverijssel.nl/tag/Daan">Daan van Monsjou</a>.</p>
 <br>
