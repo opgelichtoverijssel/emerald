@@ -1,5 +1,6 @@
 ---
 title: Wat is Digitale Oplichting?
+tags: Daan
 ---
 <p class="auteur">Auteur: <a href="https://daanvanmonsjou.nl" target = "_blank">Daan van Monsjou</a>.</p>
 <br>
