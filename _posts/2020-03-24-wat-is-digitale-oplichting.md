@@ -86,7 +86,7 @@ Voor sommige soorten ransomware zijn inmiddels gratis zogeheten *decryptors* uit
 
 ## Deepfakes
 <br>
-Deepfakes zijn een vorm van identiteitsfraude. Dit zijn zeer realistische **nepvideo's** van personen. Denk aan een soort Snapchat-filters, maar dan next-level. Met behulp van **kunstmatige intelligentie** 'plakken' kwaadwillenden het gezicht van een persoon op een andere persoon. Zo kan men bijvoorbeeld nepporno van een beroemd iemand maken. Maar ze kunnen ook speeches van bijvoorbeeld politici namaken, en ze zo woorden in de mond leggen. Dit kan erg gevaarlijk zijn. Iemand kan bijvoorbeeld een nepvideo maken waarin Trump de oorlog aan Rusland verklaart.
+Deepfakes zijn een vorm van **identiteitsfraude**. Dit zijn zeer realistische **nepvideo's** van personen. Denk aan een soort Snapchat-filters, maar dan next-level. Met behulp van **kunstmatige intelligentie** 'plakken' kwaadwillenden het gezicht van een persoon op een andere persoon. Zo kan men bijvoorbeeld nepporno van een beroemd iemand maken. Maar ze kunnen ook speeches van bijvoorbeeld politici namaken, en ze zo woorden in de mond leggen. Dit kan erg gevaarlijk zijn. Iemand kan bijvoorbeeld een nepvideo maken waarin Trump de oorlog aan Rusland verklaart.
 
 <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/cQ54GDm1eL0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p class="bijschrift"><br>Deze video van BuzzFeed toont de gevaren van deepfakes.</p>
