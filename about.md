@@ -4,4 +4,4 @@ title: About M5 Test
 ---
 # Onder Constructie
 
-Deze site is nog deels onder constructie. Ik hoop op uw begrip.
+Dit deel van deze website is nog onder constructie. Ik hoop op uw begrip.
