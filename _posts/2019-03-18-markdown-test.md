@@ -1,6 +1,6 @@
 ---
 title: Markdown-testje
-author: Daan van Monsjou
+tag: Daan
 ---
 Dit is een voorbeeldpost. Negeer dit gerust. Of niet. Het is jouw leven.
 
