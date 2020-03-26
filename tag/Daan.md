@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Daan"
+title: "Alle artikelen door Daan - Opgelicht Overijssel"
 tag: Daan
 ---
