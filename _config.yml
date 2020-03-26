@@ -1,11 +1,11 @@
 # Site settings
-title: "Naamloos M5-project over digitale oplichting"
-description: "test"
-url: "https://m5test.vanmonsjou.xyz"
+title: "Opgelicht Overijssel"
+description: "Een onderzoeksplatform naar Digitale Oplichting in Overijsel"
+url: "opgelichtoverijssel.nl"
 author:
-  name: "Daan van Monsjou"
-  email: "daan@vanmonsjou.xyz"
-  url: "https://m5test.vanmonsjou.xyz"
+  name: "Redactie"
+  email: "info@opgelichtoverijssel.nl"
+  url: "opgelichtoverijssel.nl"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
