@@ -5,14 +5,6 @@ tag: Daan
 ---
 <p class="auteur">Auteur: <a href="https://m5test.vanmonsjou.xyz/tag/Daan">Daan van Monsjou</a>.</p>
 <br>
-<span>[
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
-]</span>
-
-<br>
 Digitale oplichting is een groeiend probleem. De laatste jaren melden steeds meer slachtoffers zich bij de <a href="https://www.fraudehelpdesk.nl" target="_blank">Fraudehelpdesk</a>, en de schade loopt inmiddels jaarlijks in de miljoenen euro's. In 2019 liep de schade zelfs op tot ruim 25 miljoen euro, terwijl dat bedrag twee jaar eerder aanzienlijk lager lag.<br>
 
 <iframe title="Totale schade door digitale oplichting in euro's" aria-label="Column Chart" id="datawrapper-chart-lGt5y" src="//datawrapper.dwcdn.net/lGt5y/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
