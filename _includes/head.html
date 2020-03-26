@@ -1,7 +1,6 @@
 <head>
 	<!-- Meta -->
 	<meta charset="UTF-8"/>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 	<meta name="generator" content="Jekyll">
 
 	<title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
@@ -12,9 +11,9 @@
 	<link rel="icon" type="image/png" href="https://m5test.vanmonsjou.xyz/img/favicon.png"/>
 	<!-- RSS -->
 	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
-	<!-- tags -->
+
 	{% if site.tags != "" %}
-  {% include collecttags.html %}
-{% endif %}
+	  {% include collecttags.html %}
+	{% endif %}
 
 </head>
