@@ -1,7 +1,7 @@
 ---
 title: Wat is Digitale Oplichting?
 tag: Daan
-description: Digitale oplichting is een groeiend probleem. Steeds meer jon In 2019 liep de schade zelfs op tot ruim 25 miljoen euro, terwijl dat bedrag twee jaar eerder aanzienlijk lager lag. Uit cijfers van het CBS blijkt zelfs dat jongeren vaker dan ooit slachtoffer worden van online fraude. Maar wat is digitale oplichting eigenlijk? Dat leggen wij voor je uit!
+description: Digitale oplichting is een groeiend probleem. In 2019 liep de schade zelfs op tot ruim 26 miljoen euro, terwijl dat bedrag twee jaar eerder aanzienlijk minder was. Uit cijfers van het CBS blijkt zelfs dat jongeren vaker dan ooit slachtoffer worden van online fraude. Maar wat is digitale oplichting eigenlijk? Dat leggen wij voor je uit!
 ---
 <p class="auteur">Auteur: <a href="https://m5test.vanmonsjou.xyz/tag/Daan">Daan van Monsjou</a>.</p>
 <br>
