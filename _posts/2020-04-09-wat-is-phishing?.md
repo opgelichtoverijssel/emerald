@@ -20,14 +20,6 @@ Phishing en pharming zijn erg brede begrippen, die op verschillende manieren voo
 
 Pharming blijft overigens zeker niet beperkt tot banken en betaaldiensten. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd. Zo hopen ze dat je probeert in te loggen op een nepsite, waarna je account wordt gehackt.
 
-## Hoe ziet een phishingmail eruit?
-<br>
-<a href="https://m5test.vanmonsjou.xyz/img/bWxLBK9.png" title="Phishingmail Netflix"><img src="https://m5test.vanmonsjou.xyz/img/sbdDtVE.png" alt="Phishingmail Netflix"></a>
-
-<p class="bijschrift">Een voorbeeld van een phishingmail. Deze doet zich voor als een e-mail van Netflix.</p>
-
-Hierboven zie je een nepmail van 'Netflix', die op het eerste oog redelijk geloofwaardig lijkt. De afzender is echter 'info@eaudition.in'. E-mails van Netflix zullen verstuurd worden vanaf een '@netflix.com'-mailadres. Er staat ook enkele tikfouten in de e-mail: ze schrijven bijvoorbeeld 'member ship' in plaats van 'membership'. Je kunt er gerust van uitgaan dat de berichten van bedrijven worden nagekeken voordat ze worden verzonden. De link in deze e-mail verwijst naar een Russische website die zich voordoet als Adidas, blijkt uit een checkje <a href="https://urlscan.io/result/41c90c07-7cb3-4332-a74e-cfa5916f8370" target = "_blank">via URLScan.io</a>. Er is hier dus sprake van pharming.
-
 Het kan ook zijn dat je een e-mail ontvangt die speciaal voor jou lijkt gemaakt. Dit is een 'gerichte' aanval, en wordt ook wel **spear phishing** genoemd. Dit komt vooral veel voor bij medewerkers van grote bedrijven of overheidsinstanties, politici, journalisten en andere beroemdheden. Maar het kan jou ook overkomen.
 
 Neem dit (niet waargebeurde) voorbeeld: Stel dat je klant bent van de ING Bank. Het zou kunnen dat de ING Bank wordt gehackt, waarbij de e-mailadressen van alle ING-klanten worden buitgemaakt. Criminelen weten nu dat jij klant bent bij ING, en zullen jou dus geen berichten sturen namens ABN Amro. Dat is immers niet erg geloofwaardig:
@@ -36,6 +28,14 @@ Neem dit (niet waargebeurde) voorbeeld: Stel dat je klant bent van de ING Bank. 
 
 <p class="bijschrift">Criminelen zijn ook actief via SMS en WhatsApp.</p>
 <br>
+
+## Hoe ziet een phishingmail eruit?
+<br>
+<a href="https://m5test.vanmonsjou.xyz/img/bWxLBK9.png" title="Phishingmail Netflix"><img src="https://m5test.vanmonsjou.xyz/img/sbdDtVE.png" alt="Phishingmail Netflix"></a>
+
+<p class="bijschrift">Een voorbeeld van een phishingmail. Deze doet zich voor als een e-mail van Netflix.</p>
+
+Hierboven zie je een nepmail van 'Netflix', die op het eerste oog redelijk geloofwaardig lijkt. De afzender is echter 'info@eaudition.in'. E-mails van Netflix zullen verstuurd worden vanaf een '@netflix.com'-mailadres. Er staat ook enkele tikfouten in de e-mail: ze schrijven bijvoorbeeld 'member ship' in plaats van 'membership'. Je kunt er gerust van uitgaan dat de berichten van bedrijven worden nagekeken voordat ze worden verzonden. De link in deze e-mail verwijst naar een Russische website die zich voordoet als Adidas, blijkt uit een checkje <a href="https://urlscan.io/result/41c90c07-7cb3-4332-a74e-cfa5916f8370" target = "_blank">via URLScan.io</a>. Er is hier dus sprake van pharming.
 
 ## Hoe bescherm je jezelf tegen phishing?
 <br>
