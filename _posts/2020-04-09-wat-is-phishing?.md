@@ -1,6 +1,6 @@
 ---
-title: Wat is Digitale Oplichting?
-description: Digitale oplichting is een groeiend probleem. In 2019 liep de schade zelfs op tot ruim 26 miljoen euro, terwijl dat bedrag twee jaar eerder aanzienlijk minder was. Uit cijfers van het CBS blijkt zelfs dat jongeren vaker dan ooit slachtoffer worden van online fraude. Maar wat is digitale oplichting eigenlijk? Dat leggen wij voor je uit!
+title: Wat is Phishing?
+description: Phishing is een moeilijke term, maar de kans dat je er ooit mee te maken hebt gehad, is erg groot. Ben je benieuwd wat phishing is, en hoe je jezelf hiertegen kunt wapenen? Kijk dan hier!
 tag: Daan
 ---
 <p class="auteur">Auteur: <a href="https://opgelichtoverijssel.nl/tag/Daan">Daan van Monsjou</a></p>
