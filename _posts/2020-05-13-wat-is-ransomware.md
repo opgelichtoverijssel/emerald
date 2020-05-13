@@ -1,5 +1,5 @@
 ---
-title: Wat is Phishing?
+title: Wat is Ransomware?
 description: Phishing is een moeilijke term, maar de kans dat je er ooit mee te maken hebt gehad, is erg groot. Ben je benieuwd wat phishing is, en hoe je jezelf hiertegen kunt wapenen? Kijk dan hier!
 tag: Daan
 ---
