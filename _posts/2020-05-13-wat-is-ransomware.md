@@ -15,7 +15,9 @@ Ransomware, ook wel bekend als gijzelsoftware, is een soort **computervirus** da
 
 Ransomware wordt vaak verspreid via phishingmails. Criminelen sturen je bijvoorbeeld een e-mail met een **geïnfecteerde bijlage**, zoals een Word-document of PDF-bestand. Wanneer je deze opent, wordt je computer of laptop besmet.
 
-Criminelen vragen je vervolgens om **losgeld** te betalen, vaak in de vorm van Bitcoins. De oplichter beloven dat ze je bestanden teruggeven zodra je betaald hebt, maar dit is lang niet altijd het geval. Soms komt het voor dat mensen voor honderden euro's aan losgeld betalen, en vervolgens alsnog hun bestanden kwijtraken. Tegelijkertijd is de 'ransomware-business' gebaseerd op vertrouwen, waardoor het voor criminelen wel aantrekkelijk is om bestanden daadwerkelijk terug te geven. Als cybercriminelen dit namelijk namelijk niet doen, dan zullen mensen dat doorvertellen en zullen andere slachtoffers op hun beurt minder snel betalen.
+Criminelen vragen je vervolgens om **losgeld** te betalen, vaak in de vorm van Bitcoins. De oplichter beloven dat ze je bestanden teruggeven zodra je betaald hebt, maar dit is lang niet altijd het geval. Soms komt het voor dat mensen voor honderden euro's aan losgeld betalen, en vervolgens alsnog hun bestanden kwijtraken.
+
+Tegelijkertijd is de 'ransomware-business' gebaseerd op vertrouwen, waardoor het voor criminelen wel aantrekkelijk is om bestanden daadwerkelijk terug te geven. Als cybercriminelen dit namelijk namelijk niet doen, dan zullen mensen dat doorvertellen en zullen andere slachtoffers op hun beurt minder snel betalen.
 
 <a href="https://blog.malwarebytes.com/wp-content/uploads/2018/01/GanCrab.png" title="GandCrab-ransomware"><img src="https://blog.malwarebytes.com/wp-content/uploads/2018/01/GanCrab.png" alt="GandCrab-ransomware"></a>
 
