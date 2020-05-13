@@ -45,4 +45,6 @@ Maak daarnaast regelmatig **back-ups** van je apparaten, en sla deze op op een e
 
 Mocht je toch getroffen worden door ransomware en geen back-up hebben, **betaal nooit zomaar losgeld**. Neem direct contact op met de <a href="https://www.fraudehelpdesk.nl" target="_blank">Fraudehelpdesk</a>. Zij zullen je advies geven over wat je het beste kunt doen.
 
+## No More Ransom
+
 Voor sommige soorten ransomware zijn inmiddels gratis zogeheten *decryptors* uitgebracht waarmee je je bestanden kunt terugkrijgen, zoals bij het voorheen beruchte <a href="https://labs.bitdefender.com/2018/10/gandcrab-ransomware-decryption-tool-available-for-free/" target = "_blank">GandCrab</a>. De Politie heeft, in samenwerking met Interpol en antivirussoftwaremakers McAfee en Kaspersky, <a href="https://www.nomoreransom.org/nl/index.html" target="_blank">een website</a> opgezet die controleert of er een decryptor bestaat voor de ransomware-variant die jouw apparaat heeft geïnfecteerd. Als dit het geval is, dan kun je meestal je bestanden kosteloos ontgrendelen. Let wel dat dit helaas niet altijd het geval is.
