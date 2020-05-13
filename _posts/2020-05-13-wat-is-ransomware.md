@@ -1,10 +1,9 @@
 ---
-title: Wat is Ransomware?
-description: Stel je voor: je krijgt een e-mail van je bank, met daarin een pdf-bestand. Nieuwsgierig klik je hierop. Nog geen minuut later kun je je bestanden niet meer openen, en word je opgeroepen om voor honderden euro’s aan Bitcoins te betalen. Je bent zojuist getroffen door ransomware.
+title: Wat is Phishing?
+description: Phishing is een moeilijke term, maar de kans dat je er ooit mee te maken hebt gehad, is erg groot. Ben je benieuwd wat phishing is, en hoe je jezelf hiertegen kunt wapenen? Kijk dan hier!
 tag: Daan
 ---
-
-<p class="auteur">Auteur: <a href="https://opgelichtoverijssel.nl/tag/Daan">Daan van Monsjou</a>.</p>
+<p class="auteur">Auteur: <a href="https://opgelichtoverijssel.nl/tag/Daan">Daan van Monsjou</a></p>
 <br>
 
 
