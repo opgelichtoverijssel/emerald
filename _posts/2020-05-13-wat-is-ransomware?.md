@@ -10,6 +10,8 @@ tag: Daan
 
 Stel je voor: je krijgt een e-mail van je bank, met daarin een pdf-bestand. Nieuwsgierig klik je hierop. Nog geen minuut later kun je je bestanden niet meer openen, en word je opgeroepen om voor honderden euro’s aan Bitcoins te betalen. Je bent zojuist getroffen door ransomware.
 
+## Versleutelde bestanden
+
 Ransomware, ook wel bekend als gijzelsoftware, is een soort **computervirus** dat de laatste jaren een flinke opmars maakt. Ransomware **'versleutelt'** je documenten, foto's, video's, en andere bestanden. Dat wil zeggen dat je je bestanden niet meer kunt openen zonder een (enorm lang en sterk) wachtwoord: de sleutel, dus.
 
 Ransomware wordt vaak verspreid via phishingmails. Criminelen sturen je bijvoorbeeld een e-mail met een **geïnfecteerde bijlage**, zoals een Word-document of PDF-bestand. Wanneer je deze opent, wordt je computer of laptop besmet.
@@ -19,6 +21,8 @@ Criminelen vragen je vervolgens om **losgeld** te betalen, vaak in de vorm van B
 <a href="https://blog.malwarebytes.com/wp-content/uploads/2018/01/GanCrab.png" title="GandCrab-ransomware"><img src="https://blog.malwarebytes.com/wp-content/uploads/2018/01/GanCrab.png" alt="GandCrab-ransomware"></a>
 
 <p class="bijschrift">Een voorbeeld van een ransomware-infectie. Afbeelding via <a href="https://www.malwarebytes.com/gandcrab/" target="_blank">MalwareBytes</a>.</p>
+
+## Groeiend probleem
 
 Ransomware-infecties komen steeds vaker voor. Zo werd de Universiteit van Maastricht eind vorig jaar <a href="https://www.maastrichtuniversity.nl/um-cyber-attack-symposium-%E2%80%93-lessons-learnt" target = "_blank">getroffen door ransomware</a>. De infectie kwam binnen via een phishingmail op een oude laptop. Hierdoor konden honderden studenten wekenlang geen gebruikmaken van de computers op de campus.
 
@@ -31,6 +35,8 @@ De totale schade door de WannaCry-aanval, waardoor onder andere enkele grote bed
 <a href="https://upload.wikimedia.org/wikipedia/commons/3/3a/Countries_initially_affected_in_WannaCry_ransomware_attack.png" title="Getroffen landen door WannaCry"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Countries_initially_affected_in_WannaCry_ransomware_attack.png" alt="Getroffen landen door WannaCry"></a>
 
 <p class="bijschrift">De WannaCry-ransomware is opgedoken in wel 150 landen.<br>Afbeelding door Roke <a href="https://commons.wikimedia.org/wiki/File:Countries_initially_affected_in_WannaCry_ransomware_attack.png" target="_blank">via WikiMedia</a>. Licentie onder <a href="https://creativecommons.org/licenses/by-sa/3.0" target = "_blank">CC BY-SA</a>.</p>
+
+## Hoe bescherm ik me tegen ransomware?
 
 Ransomware-aanvallen worden vaak gericht op bedrijven, scholen, overheden en andere grote instanties, maar ook doodgewone mensen kunnen dus getroffen worden door zo'n virus. Je kunt gelukkig een hoop doen om je te wapenen tegen ransomware. Allereest: **open geen bijlagen uit verdachte e-mails**. Veel ransomware-virussen worden verspreid via nepmails. Bij twijfel: open de bijlagen (zoals documenten, pdf'jes of afbeeldingen) via Google Docs! Zo kun je veilig de inhoud bekijken, zonder dat je het bestand hoeft te openen op je computer, laptop of smartphone.
 
