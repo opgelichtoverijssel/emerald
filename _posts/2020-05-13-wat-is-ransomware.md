@@ -37,7 +37,7 @@ De totale schade door de WannaCry-aanval, waardoor onder andere enkele grote bed
 
 <p class="bijschrift">De WannaCry-ransomware is opgedoken in wel 150 landen.<br>Afbeelding door Roke <a href="https://commons.wikimedia.org/wiki/File:Countries_initially_affected_in_WannaCry_ransomware_attack.png" target="_blank">via WikiMedia</a>. Licentie onder <a href="https://creativecommons.org/licenses/by-sa/3.0" target = "_blank">CC BY-SA</a>.</p>
 
-## Hoe bescherm ik me tegen ransomware?
+## Hoe bescherm ik mezelf tegen ransomware?
 
 Ransomware-aanvallen worden vaak gericht op bedrijven, scholen, overheden en andere grote instanties, maar ook doodgewone mensen kunnen dus getroffen worden door zo'n virus. Je kunt gelukkig een hoop doen om je te wapenen tegen ransomware. Allereest: **open geen bijlagen uit verdachte e-mails**. Veel ransomware-virussen worden verspreid via nepmails. Bij twijfel: open de bijlagen (zoals documenten, pdf'jes of afbeeldingen) via Google Docs! Zo kun je veilig de inhoud bekijken, zonder dat je het bestand hoeft te openen op je computer, laptop of smartphone.
 
