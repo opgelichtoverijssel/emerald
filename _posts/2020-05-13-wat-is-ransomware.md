@@ -7,7 +7,7 @@ tag: Daan
 <br>
 
 
-Stel je voor: je krijgt een e-mail van je bank, met daarin een pdf-bestand. Nieuwsgierig klik je hierop. Nog geen minuut later kun je je bestanden niet meer openen, en word je opgeroepen om voor honderden euro’s aan Bitcoins te betalen. Je bent zojuist getroffen door ransomware.
+Stel je voor: je krijgt een e-mail van je bank, met daarin een PDF-bestand. Nieuwsgierig klik je hierop. Nog geen minuut later kun je je bestanden niet meer openen, en word je opgeroepen om voor honderden euro’s aan Bitcoins te betalen om ze weer terug te krijgen. Dat bericht bleek helemaal niet van je bank te zijn, maar kwam van een cybercrimineel. Je bent zojuist getroffen door ransomware.
 
 ## Versleutelde bestanden
 
