@@ -11,7 +11,7 @@ Stel je voor: je krijgt een e-mail van je bank, met daarin een PDF-bestand. Nieu
 
 ## Versleutelde bestanden
 
-Ransomware, ook wel bekend als gijzelsoftware, is een soort **computervirus** dat de laatste jaren een flinke opmars maakt. Ransomware **'versleutelt'** je documenten, foto's, video's, en andere bestanden. Dat wil zeggen dat je je bestanden niet meer kunt openen zonder een (enorm lang) wachtwoord: de sleutel, dus.
+Ransomware, ook wel bekend als gijzelsoftware, is een soort **computervirus** dat de laatste jaren een flinke opmars maakt. Ransomware **'versleutelt'** je documenten, foto's, video's, en andere bestanden. Dat wil zeggen dat je je bestanden niet meer kunt openen zonder een (enorm lang) wachtwoord: de sleutel.
 
 Ransomware wordt vaak verspreid via phishingmails. Criminelen sturen je bijvoorbeeld een e-mail met een **geïnfecteerde bijlage**, zoals een Word-document of PDF-bestand. Wanneer je deze opent, wordt je computer of laptop besmet.
 
