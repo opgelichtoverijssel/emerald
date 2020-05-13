@@ -1,6 +1,6 @@
 ---
 title: Wat is Ransomware?
-description: Stel je voor: je krijgt een e-mail van je bank, met daarin een pdf-bestand. Nieuwsgierig klik je hierop. Nog geen minuut later kun je je bestanden niet meer openen, en word je opgeroepen om voor honderden euro’s aan Bitcoins te betalen. Je bent zojuist getroffen door ransomware.
+description: Veel mensen zijn niet bekend met de term ransomware, maar toch is het een groeiend probleem. Zo werd in december de Universiteit Maastricht getroffen door zulke gijzelsoftware. Wil je weten wat ransomware precies is, en wat je ertegen kunt doen? Kijk dan hier!
 tag: Daan
 ---
 <p class="auteur">Auteur: <a href="https://opgelichtoverijssel.nl/tag/Daan">Daan van Monsjou</a></p>
