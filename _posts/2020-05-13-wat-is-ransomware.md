@@ -31,7 +31,7 @@ Uiteindelijk betaalde de Universiteit bijna twee ton aan losgeld. Hun bestanden 
 
 Een ander bekend voorbeeld van ransomware is <a href="https://www.wikiwand.com/nl/WannaCry" target="_blank">de uitbraak van **WannaCry**</a>. Die ransomware kon alleen computers treffen die niet geüpdatet waren, maar toch trof dat computervirus in korte tijd ruim 200.000 apparaten. De makers van die ransomware eisten tussen de 300 en 600 euro losgeld per getroffen apparaat, hoewel gelukkig niet iedereen dit heeft betaald.
 
-De totale schade door de WannaCry-aanval, waardoor onder andere enkele grote bedrijven tijdelijk platlagen, loopt naar schattingen op tot wel 3,7 miljard euro. Een maand na de aanval met WannaCry, werd een deel van de Rotterdamse Haven getroffen door een andere ransomware. Dat kostte ook weer miljoenen.
+De totale schade door de WannaCry-aanval, waardoor onder andere enkele grote bedrijven en een deel van de Britse NHS tijdelijk platlagen, loopt naar schattingen op tot wel 3,7 miljard euro. Een maand na de aanval met WannaCry, werd een deel van de Rotterdamse Haven getroffen door een andere soort ransomware. Dat kostte ook weer miljoenen.
 
 <a href="https://upload.wikimedia.org/wikipedia/commons/3/3a/Countries_initially_affected_in_WannaCry_ransomware_attack.png" title="Getroffen landen door WannaCry"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Countries_initially_affected_in_WannaCry_ransomware_attack.png" alt="Getroffen landen door WannaCry"></a>
 
