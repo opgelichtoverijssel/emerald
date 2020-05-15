@@ -6,7 +6,7 @@ tag: Daan
 <p class="auteur">Auteur: <a href="https://opgelichtoverijssel.nl/tag/Daan">Daan van Monsjou</a></p>
 <br>
 
-Phishing is een moeilijke term, maar de kans dat je er ooit mee te maken hebt gehad, is erg groot. Misschien heb je wel eens een e-mil gekregen die van je bank of Google leek te zijn. Met een beetje pech heb je die mail toen geopend, en op een link geklikt, om vervolgens vervolgens je informatie in te vullen op een nepwebsite. Binnen enkele minuten werd je wachtwoord veranderd, of je bankrekening leegeroofd. Als dat zo is, dan ben je gephisht.
+Phishing is een moeilijke term, maar de kans dat je er ooit mee te maken hebt gehad, is erg groot. Misschien heb je wel eens een e-mail gekregen die van je bank of Google leek te zijn. Met een beetje pech heb je die mail toen geopend, en op een link geklikt, om vervolgens vervolgens je informatie in te vullen op een nepwebsite. Binnen enkele minuten werd je wachtwoord veranderd, of je bankrekening leegeroofd. Als dat zo is, dan ben je gephisht.
 
 ## Nepberichten
 <br>
