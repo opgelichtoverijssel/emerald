@@ -27,7 +27,6 @@ Neem dit (niet waargebeurde) voorbeeld: Stel dat je klant bent van de ING Bank. 
 <blockquote class="twitter-tweet"><p lang="nl" dir="ltr">Krijg net dit phishingbericht binnen. Ben geen klant bij Rabobank <a href="https://t.co/LecOBjlgFz">pic.twitter.com/LecOBjlgFz</a></p>&mdash; Daan van Monsjou 👨‍💻🏡 (@daanvanmonsjou) <a href="https://twitter.com/daanvanmonsjou/status/1198239110227513344?ref_src=twsrc%5Etfw">November 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <p class="bijschrift">Criminelen zijn ook actief via SMS en WhatsApp.</p>
-<br>
 
 ## Hoe ziet een phishingmail eruit?
 <br>
