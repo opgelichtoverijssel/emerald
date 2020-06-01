@@ -6,6 +6,8 @@ tag: Eline
 <p class="auteur">Auteur: <a href="https://opgelichtoverijssel.nl/tag/Eline">Eline Rotmensen</a></p>
 <br>
 
+Digitale oplichting is een trend dat alsmaar groter wordt. Door middel van bijvoorbeeld een Whatsapp-berichtje weten oplichters geld af te troggelen van onschuldige mensen. Sinds de uitbraak van corona zijn er in Overijssel al 60 aangiftes gedaan tegen deze nieuwe soort fraude, meldt RTV Oost. Maar hoe gaan oplichters precies te werk?
+
 Thomas van den Nieuwenhoff, tweedejaars ICT-student, heeft met een aantal studiegenoten onderzoek gedaan naar digitale oplichting en weet dus precies hoe digitale oplichting in zijn werking gaat. “Als we het bijvoorbeeld hebben over phising en ik zou de oplichter zijn, dan wil ik de lezer overhalen om iets te doen,” vertelt Thomas. “Hierbij kan ik mij voordoen als een vertrouwd persoon om zo iemand aan te zetten tot actie.” Een oplichter kan het meest makkelijk te werk gaan zodra iemand zelf zijn persoonlijke gegevens invult. 
 
 Maar wat gebeurt er dan met deze gegevens? “Ik zet bijvoorbeeld een website op die er net zo uit ziet als de betalingspagina van een bekende webshop,” begint Thomas. “Er is een verjaardag opkomst en door de COVID-19 situatie is het goed mogelijk dat je een cadeautje bij Bol.com hebt besteld. Ik stuur je een mail waarin staat dat je betaling niet gelukt is, met een link om het opnieuw te proberen.” Zonder er bij stil te staan klik je op de link. 
@@ -13,7 +15,6 @@ Maar wat gebeurt er dan met deze gegevens? “Ik zet bijvoorbeeld een website op
 “Eenmaal op mijn website zie je staan dat je een bankautorisatie moet geven om het verschuldigde bedrag over te maken. De pagina ziet er professioneel en geloofwaardig uit en met iDeal zit je altijd goed, toch?” Dus je klikt wederom op de link. “Je wordt doorgestuurd naar de betalingspagina van je bank en je voert de autorisatie uit. Alles lijkt gelukt te zijn, alleen weet je niet dat het positiever is voor mij dan voor jou,” vertelt Thomas. “Ik ben nu geautoriseerd om bedragen van je rekening af te schijven. Ik zal binnen een paar uur tijd met kleine beetjes tegelijk honderden euro’s kunnen afschijven. Je bent gephished.”
 
 Dit is slechts een enkel voorbeeld van digitale oplichting. Fraude-mailtjes waren vroeger vooral populair, terwijl tegenwoordig vriend-in-nood-fraude via Whatsapp ontzettend aan het groeien is. “Eigenlijk werkt het tv-programma MINDF*CK hetzelfde als vriend-in-nood-fraude,” vertelt officier van justitie cybercrime Marjoleine ten Velde. “Je wordt naar iets geleid maar ondertussen gebeurt er heel wat anders. Je maakt geld over omdat je zo denkt een vriend of familielid te kunnen helpen maar ondertussen wordt heel je rekening leeggeplunderd en zit je met de gebakken peren.” Het is een logische trend, vindt tech-journalist Daniël Verlaan. “Oplichters spelen juist in op deze trends. Kijk bijvoorbeeld maar eens naar de antibacteriële bankpassen vanwege COVID-19. Een slimme en efficiënte manier voor het aftroggelen van geld. Ze maken misbruik van de situatie en tonen geen greintje sympathie.”
-
  
 
 ## Strafbaarheid
