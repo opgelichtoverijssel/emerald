@@ -24,7 +24,7 @@ Het kan ook zijn dat je een e-mail ontvangt die speciaal voor jou lijkt gemaakt.
 
 Neem dit (niet waargebeurde) voorbeeld: Stel dat je klant bent van de ING Bank. Het zou kunnen dat de ING Bank wordt gehackt, waarbij de e-mailadressen van alle ING-klanten worden buitgemaakt. Criminelen weten nu dat jij klant bent bij ING, en zullen jou dus geen berichten sturen namens ABN Amro. Dat is immers niet erg geloofwaardig:
 
-<div align="center"><blockquote style ="float: center" class="twitter-tweet" data-lang="nl" data-dnt="true"><p lang="nl" dir="ltr">Krijg net dit phishingbericht binnen. Ben geen klant bij Rabobank <a href="https://t.co/LecOBjlgFz">pic.twitter.com/LecOBjlgFz</a></p>&mdash; Daan van Monsjou 👨‍💻 (@daanvanmonsjou) <a href="https://twitter.com/daanvanmonsjou/status/1198239110227513344?ref_src=twsrc%5Etfw">23 november 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<blockquote class="twitter-tweet"><p lang="nl" dir="ltr">Krijg net dit phishingbericht binnen. Ben geen klant bij Rabobank <a href="https://t.co/LecOBjlgFz">pic.twitter.com/LecOBjlgFz</a></p>&mdash; Daan van Monsjou 👨‍💻🏡 (@daanvanmonsjou) <a href="https://twitter.com/daanvanmonsjou/status/1198239110227513344?ref_src=twsrc%5Etfw">November 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <p class="bijschrift">Criminelen zijn ook actief via SMS en WhatsApp.</p>
 <br>
