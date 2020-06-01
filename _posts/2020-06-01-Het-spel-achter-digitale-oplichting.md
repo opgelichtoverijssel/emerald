@@ -1,6 +1,6 @@
 ---
-Title: Het spel achter digitale oplichting
-decription: Digitale oplichting is een trend dat alsmaar groter wordt. Door middel van bijvoorbeeld een Whatsapp-berichtje weten oplichters geld af te troggelen van onschuldige mensen. Sinds de uitbraak van corona zijn er in Overijssel al 60 aangiftes gedaan tegen deze nieuwe soort fraude, meldt RTV Oost. Maar hoe gaan oplichters precies te werk?
+title: Het spel achter digitale oplichting
+description: Digitale oplichting is een trend dat alsmaar groter wordt. Door middel van bijvoorbeeld een Whatsapp-berichtje weten oplichters geld af te troggelen van onschuldige mensen. Sinds de uitbraak van corona zijn er in Overijssel al 60 aangiftes gedaan tegen deze nieuwe soort fraude, meldt RTV Oost. Maar hoe gaan oplichters precies te werk?
 tag: Eline
 ---
 <p class="auteur">Auteur: <a href="https://opgelichtoverijssel.nl/tag/Eline">Eline Rotmensen</a></p>
