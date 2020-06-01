@@ -4,7 +4,6 @@ decription: Digitale oplichting is een trend dat alsmaar groter wordt. Door midd
 Tag: Eline
 ---
 <p class="auteur">Auteur: <a href="https://opgelichtoverijssel.nl/tag/Eline">Eline Rotmensen</a></p>
-<br>
 
 Thomas van den Nieuwenhoff, tweedejaars ICT-student, heeft met een aantal studiegenoten onderzoek gedaan naar digitale oplichting en weet dus precies hoe digitale oplichting in zijn werking gaat. “Als we het bijvoorbeeld hebben over phising en ik zou de oplichter zijn, dan wil ik de lezer overhalen om iets te doen,” vertelt Thomas. “Hierbij kan ik mij voordoen als een vertrouwd persoon om zo iemand aan te zetten tot actie.” Een oplichter kan het meest makkelijk te werk gaan zodra iemand zelf zijn persoonlijke gegevens invult. 
 
