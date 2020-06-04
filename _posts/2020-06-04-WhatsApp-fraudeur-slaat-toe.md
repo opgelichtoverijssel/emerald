@@ -10,11 +10,11 @@ Zo begon het WhatsApp gesprek tussen Christien Parijs (62) en een WhatsApp fraud
 
 Op vrijdagmiddag 23 mei zitten Christien en haar man in de auto terug naar huis omdat ze iets vergeten zijn. In alle hectiek krijgt Christien een appje van een onbekend nummer. Een van haar dochters appt dat haar mobiel kapot is. Het blijkt haar dochter Joyce te zijn, ze heeft het over een spoedbetaling voor haar kapotte telefoon. Voordat Joyce ernaar hoeft de vragen vraagt haar moeder al wat het bedrag is en of ze het moet overmaken. Christien schrok wel een beetje van het grote bedrag. ‘Nep Joyce’ vroeg een bedrag van 2422,66 euro over te maken. Christien: 'Het is heel raar want de manier waarop de oplichter schreef, inclusief de Smileys, is precies hetzelfde als hoe mijn dochter via WhatsApp praat.'
 
-> _Ik raakte helemaal overstuur_
+> "_Ik raakte helemaal overstuur._"
 
 Christien vroeg nog even of het bedrag wel klopte. ‘Toen ze vroeg naar de bevestiging was het kwartje nog niet gevallen, dat gebeurde pas toen ik een halfuur later voor de deur van mijn dochter stond. Na de reactie van mijn dochter toen ik begon over het geldbedrag wist ik dat ik was opgelicht. Het was een heel raar gevoel, ik raakte helemaal overstuur. Ik ben naar buiten gelopen, en stond echt even te schelden. Ik dacht nog hoe kan het nou dat de oplichter Joyce haar naam noemt en niet Kim, van Kim had ik het niet verwacht. Ze hebben vast alle informatie van mijn Facebookprofiel en die van mijn kinderen gehaald.’
 
->_Ik heb drie dagen gehuild, hoe kan je nou zoiets doen?_
+> "_Ik heb drie dagen gehuild, hoe kan je nou zoiets doen?_"
 
 Christien en Joyce hebben meteen de bank en de politie gebeld. ‘Ze doen er niks mee’ zegt Christien. ‘Ik heb het geld zelf overgemaakt en niet via een creditcard. De politie moet wachten op een akkoord van de rechter voordat ze actie mogen ondernemen, het was al te laat. Alles is via een prepaid kaartje gegaan, het is niet meer te achterhalen wie die oplichter is geweest.’ 
 
