@@ -1,7 +1,6 @@
 ---
 title: Whatsapp-fraudeur slaat toe: ‘Is de betaling rond mam?’
-description: ‘Heyy mama, ik ben een beetje onhandig geweest. Mijn toestel is per ongeluk in de wasmachine beland. Dit is mijn nieuwe nummer, de oude kan weg’.
-Zo begon het WhatsApp gesprek tussen Christien Parijs (62) en een WhatsApp fraudeur die zich voordeed als haar dochter Joyce. Zonder aarzelen dacht Christien haar dochter te helpen en maakte het bedrag van wel 2422,66 euro over. Het gebeurt steeds vaker, oplichters die in de naam van een bekende dringend om geld vragen. In de eerste vier maanden van 2020 kwamen ruim 3500 meldingen binnen van WhatsApp-fraude blijkt uit cijfers van het Fraude Helpdesk.
+description: Digitale oplichters worden steeds inventiever in het bereiken van slachtoffers. Zo doen criminelen zich tegenwoordig bijvoorbeeld voor als familieleden, om slachtoffers zo geld af te troggelen. Christien Parijs (62) doet haar verhaal.
 tag: Faye
 ---
 
