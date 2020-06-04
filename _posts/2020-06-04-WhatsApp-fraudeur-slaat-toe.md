@@ -1,5 +1,5 @@
 ---
-title: Whatsapp-fraudeur slaat toe: ‘Is de betaling rond mam?’
+title: Whatsapp-fraudeur slaat toe: "Is de betaling rond mam?"
 description: Digitale oplichters worden steeds inventiever in het bereiken van slachtoffers. Zo doen criminelen zich tegenwoordig bijvoorbeeld voor als familieleden, om slachtoffers zo geld af te troggelen. Christien Parijs (62) doet haar verhaal.
 tag: Faye
 ---
