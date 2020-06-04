@@ -5,6 +5,7 @@ tag: Faye
 ---
 <p class="auteur">Auteur: <a href="https://opgelichtoverijssel.nl/tag/Faye">Faye Woesthuis</a></p>
 <br>
+
 In een wereld waar bijna alles tegenwoordig digitaal gaat, zijn er helaas ook nadelen. Iedereen heeft er wel eens van gehoord; phishingmails, tikkiefraude, WhatsApp-berichten die niet van je eigen kinderen of ouders blijken te zijn en zo nog veel meer vormen van digitale oplichting. Met de komst van het coronavirus zijn er weer nieuwe vormen van fraude via het internet bijgekomen en de zogenaamde antibacteriële bankpas is hier een van. [Betaalvereniging Nederland](https://www.betaalvereniging.nl/) en [Veiligbankieren.nl](https://veiligbankieren.nl) hebben van reclamebureau De Ster de mogelijkheid gekregen een voorlichtingsvideo over antibacteriële bankpassen op televisie uit te zenden.
 
 ## Gratis voorlichtingspotje
