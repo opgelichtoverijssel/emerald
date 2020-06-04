@@ -20,7 +20,7 @@ Het idee van de antibacteriële bankpas komt van fraudeurs die de angst voor cor
 
 Betaalvereniging Nederland is opgericht in 2012 en heeft van de NVB (Nederlandse vereniging van banken) de taken overgenomen die specifiek over het betalingsverkeer gaan, waaronder veiligbankieren.nl. De betaalvereniging wordt volledig gefinancierd door zijn leden, het is een non-profit organisatie. De betaalvereniging richt zich niet direct tot de consumenten maar bieden hulpmiddelen aan hun leden zodat zij hun eigen klanten kunnen benaderen. 
 
-Persvoorlichter Berend Beugel: ‘Betaalvereniging Nederland kan niet precies weten hoeveel mensen er aangifte doen omdat er veel mensen zijn die geen aangifte doen om verschillende redenen. Wat wij wel kunnen meten is het aantal mensen die met naam en toenaam zich bij hun eigen bank melden naar aanleiding van fraude waar ze zelf slachtoffer van zijn geworden en waar schade is geleden’. Deze aantallen alleen geven al reden om voorlichtingsfilmpjes te maken ter preventie van internetfraude. 
+Persvoorlichter Berend Beugel: ‘Betaalvereniging Nederland kan niet precies weten hoeveel mensen er aangifte doen omdat er veel mensen zijn die geen aangifte doen om verschillende redenen. Wat wij wel kunnen meten is het aantal mensen die met naam en toenaam zich bij hun eigen bank melden naar aanleiding van fraude waar ze zelf slachtoffer van zijn geworden en waar schade is geleden.' Deze aantallen alleen geven al reden om voorlichtingsfilmpjes te maken ter preventie van internetfraude. 
 
 ## Nieuw voorlichtingspotje
 
