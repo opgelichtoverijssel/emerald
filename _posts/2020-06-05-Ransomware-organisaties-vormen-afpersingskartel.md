@@ -5,6 +5,7 @@ tag: Daan
 ---
 <p class="auteur">Auteur: <a href="https://opgelichtoverijssel.nl/tag/Daan">Daan van Monsjou</a></p>
 <br>
+
 De organisaties achter de Maze- en LockBit-ransomware hebben hun handen ineengeslagen. De groepering gaat gezamenlijk het platform van Maze gebruiken om gestolen bestanden te publiceren van slachtoffers die geen losgeld betalen. De actoren richten zich vooral op bedrijven en organisaties.
 
 De samenwerking tussen Maze en LockBit werd opgemerkt door [KeLa](https://ke-la.com/), een cyber intelligence-bedrijf uit Israël. Dit bedrijf spotte een nieuwe set gepubliceerde data op de website van Maze. Echter bleek dat deze bestanden niet van Maze afkomstig waren, maar van de LockBit-ransomware, die eerder dit jaar [ook in Nederland toesloeg](https://www.volkskrant.nl/nieuws-achtergrond/niet-betalen-aan-computergijzelaars-klinkt-goed-tot-je-wordt-gehackt~bf580bf6/).
