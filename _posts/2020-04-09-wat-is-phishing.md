@@ -20,7 +20,7 @@ Phishing en pharming zijn erg brede begrippen, die op verschillende manieren voo
 
 Pharming blijft overigens zeker niet beperkt tot banken en betaaldiensten. Hackers sturen geregeld e-mails uit naam van Google, Microsoft en andere populaire bedrijven. Vaak proberen hackers je bang te maken, door te stellen dat je wachtwoord opeens is gewijzigd, of dat je account is geblokkeerd. Zo hopen ze dat je probeert in te loggen op een nepsite, waarna je account wordt gehackt.
 
-Het kan ook zijn dat je een e-mail ontvangt die speciaal voor jou lijkt gemaakt. Dit is een 'gerichte' aanval, en wordt ook wel **spear phishing** genoemd. Dit komt vooral veel voor bij medewerkers van grote bedrijven of overheidsinstanties, politici, journalisten en andere beroemdheden. Maar het kan jou ook overkomen.
+Het kan ook zijn dat je een e-mail ontvangt die speciaal voor jou lijkt gemaakt. Dit is een 'gerichte' aanval, en wordt ook wel **spear phishing** genoemd. Dit komt vooral veel voor bij medewerkers van grote bedrijven of overheidsinstanties, politici, journalisten en andere beroemdheden, hoewel het ook voorkomt bij gewone particulieren.
 
 Neem dit (niet waargebeurde) voorbeeld: Stel dat je klant bent van de ING Bank. Het zou kunnen dat de ING Bank wordt gehackt, waarbij de e-mailadressen van alle ING-klanten worden buitgemaakt. Criminelen weten nu dat jij klant bent bij ING, en zullen jou dus geen berichten sturen namens ABN Amro. Dat is immers niet erg geloofwaardig:
 
