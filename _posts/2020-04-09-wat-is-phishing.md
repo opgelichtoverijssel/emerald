@@ -36,6 +36,15 @@ Ook particulieren worden overigens slachtoffer van phishing. Neem dit (niet waar
 
 Hierboven zie je een nepmail van 'Netflix', die op het eerste oog redelijk geloofwaardig lijkt. De afzender is echter 'info@eaudition.in'. E-mails van Netflix zullen verstuurd worden vanaf een '@netflix.com'-mailadres. Er staat ook enkele tikfouten in de e-mail: ze schrijven bijvoorbeeld 'member ship' in plaats van 'membership'. Je kunt er gerust van uitgaan dat de berichten van bedrijven worden nagekeken voordat ze worden verzonden. De link in deze e-mail verwijst naar een Russische website die zich voordoet als Adidas, blijkt uit een checkje <a href="https://urlscan.io/result/41c90c07-7cb3-4332-a74e-cfa5916f8370" target = "_blank">via URLScan.io</a>. Er is hier dus sprake van pharming.
 
+## Phishing is een groeiende dreiging
+<br>
+Het aantal meldingen van phishing is in de afgelopen jaren sterk toegenomen. De Fraudehelpdesk meldt aan Opgelicht Overijssel dat het aantal slachtoffers van phishing in de afgelopen twee jaar tijd met bijna zeven keer is gestegen. In 2017 werden voor zover bekend 70 Nederlanders slachtoffer van phishing. In 2019 lag dit aantal op 482. 
+
+Daarnaast is de schade door phishing verzesvoudigd in die periode. De totale schade door cybercrime, waaronder phishing, hacks en ‘computervirussen’ als ransomware vallen, is in twee jaar tijd gestegen met 57 procent, hoewel in 2018 een juist lichte daling te zien was.
+
+<iframe title="Totale schade door cybercrime in euro's" aria-label="chart" id="datawrapper-chart-9YIpt" src="https://datawrapper.dwcdn.net/9YIpt/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
 ## Hoe bescherm je jezelf tegen phishing?
 <br>
 Dit klinkt allemaal enorm eng, maar gelukkig zijn de berichten zelf nooit schadelijk. Pas als je naar een nepsite gaat, of een bijlage downloadt en opent, word je getroffen. Je kunt phishingmails en -berichten dan ook gewoon negeren. Tips om valse berichten te herkennen, [vind je bij de Fraudehelpdesk](https://www.fraudehelpdesk.nl/fraude/beoordeel-verdachte-e-mail/). Op deze website vind je ook [een actueel overzicht](https://www.fraudehelpdesk.nl/actueel/valse-emails/) van valse e-mails.
