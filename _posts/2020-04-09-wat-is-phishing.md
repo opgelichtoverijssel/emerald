@@ -40,7 +40,7 @@ Hierboven zie je een nepmail van 'Netflix', die op het eerste oog redelijk geloo
 <br>
 Het aantal meldingen van phishing is in de afgelopen jaren sterk toegenomen. De Fraudehelpdesk meldt aan Opgelicht Overijssel dat het aantal slachtoffers van phishing in de afgelopen twee jaar tijd met bijna zeven keer is gestegen. In 2017 werden voor zover bekend 70 Nederlanders slachtoffer van phishing. In 2019 lag dit aantal op 482. 
 
-Daarnaast is de schade door phishing verzesvoudigd in die periode. De totale schade door cybercrime, waaronder phishing, hacks en ‘computervirussen’ als ransomware vallen, is in twee jaar tijd gestegen met 57 procent, hoewel in 2018 een juist lichte daling te zien was.
+Daarnaast is de schade door phishing verzesvoudigd in die periode. De totale schade door cybercrime, waaronder phishing, hacks en ‘computervirussen’ als [ransomware](https://opgelichtoverijssel.nl/wat-is-ransomware) vallen, is in twee jaar tijd gestegen met 57 procent, hoewel in 2018 een juist lichte daling te zien was.
 
 <iframe title="Totale schade door cybercrime in euro's" aria-label="chart" id="datawrapper-chart-9YIpt" src="https://datawrapper.dwcdn.net/9YIpt/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
